@@ -1,9 +1,5 @@
-# You Don't Know JS: Up & Going
-
-## Table of Contents
-
-* Foreword
-* Preface
+## Up & Going - [You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)
+*[Foreword](forword.md) - Mar 31,2015(88p)*
 * Chapter 1: Into Programming
 	* Code
 	* Try It Yourself
