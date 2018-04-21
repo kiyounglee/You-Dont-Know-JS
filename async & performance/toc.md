@@ -1,9 +1,5 @@
-# You Don't Know JS: Async & Performance
-
-## Table of Contents
-
-* Foreword
-* Preface
+## You Don't Know JS: Async & Performance
+* [Foreword](forword.md)
 * [Chapter 1: Asynchrony: Now & Later](ch1.md)
 	* A Program In Chunks
 	* Event Loop
