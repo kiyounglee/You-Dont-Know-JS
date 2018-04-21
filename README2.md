@@ -1,13 +1,6 @@
 # You Dont Konw JS 
 [Preface](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/preface.md)
 
-* [Up & Going](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) 
-* [Scope & Closures](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
-* [this & Object Prototypes](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
-* [Types & Grammar](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) 
-* [Async & Performance](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) 
-* [ES6 & Beyond](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
-
 ## [Up & Going](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)   
 * [Table of Contents](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/up%20%26%20going/toc.md) / [Preface](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/preface.md) - Mar 31,2015(88p)
 * [Chapter 1: Into Programming](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
