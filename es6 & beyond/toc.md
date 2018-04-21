@@ -1,9 +1,9 @@
 ## ES6 & Beyond - *[You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)*
 *[Foreword](forword.md) - Dec 27,2015(278p)*
 
-* [Chapter 1: ES? Now & Future](ch1.md)
-	Versioning
-	Transpiling
+* [Chapter 1: ES? Now & Future](ch1.md)   
+	Versioning   
+	Transpiling   
 * [Chapter 2: Syntax](ch2.md)
 	* Block-Scoped Declarations
 	* Spread / Rest
