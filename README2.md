@@ -1,5 +1,4 @@
-# You Dont Konw JS 
-* [Preface](preface.md)
+# You Dont Konw JS - [Preface](preface.md)
 
 ## [Up & Going](up%20%26%20going/toc.md) - Mar 31,2015(88p)  
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
