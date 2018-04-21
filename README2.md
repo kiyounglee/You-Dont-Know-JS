@@ -1,7 +1,7 @@
 # You Dont Konw JS 
 [Preface](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/preface.md)
 
-## [Up & Going](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)   
+## [Up & Going](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) - Mar 31,2015(88p)  
 * [Table of Contents](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/up%20%26%20going/toc.md) / [Preface](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/preface.md) - Mar 31,2015(88p)
 * [Chapter 1: Into Programming](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
 * [Chapter 2: Into JavaScript](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
