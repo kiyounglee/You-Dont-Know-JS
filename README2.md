@@ -53,8 +53,8 @@
 * [Appendix A: Library: asynquence](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/async%20%26%20performance/apA.md)
 * [Appendix B: Advanced Async Patterns](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/async%20%26%20performance/apB.md)
 
-## [ES6 & Beyond](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)   
-* [Table of Contents](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/toc.md) / [Preface](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/preface.md) - Dec 27,2015(278p)
+## [ES6 & Beyond](es6%20&%20beyond/toc.md)   
+* [Table of Contents](es6%20%26%20beyond/toc.md) / [Preface](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/preface.md) - Dec 27,2015(278p)
 * [Chapter 1: ES? Now & Future](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md)
 * [Chapter 2: Syntax](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch2.md)
 * [Chapter 3: Organization](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch3.md)
