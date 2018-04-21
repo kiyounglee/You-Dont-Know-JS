@@ -1,4 +1,4 @@
-## Types & Grammar - [You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)
+## Types & Grammar - *[You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)*
 *[Foreword](forword.md) - Feb 4,2015(198p)*
 * [Chapter 1: Types](ch1.md)
 	* A Type By Any Other Name...
