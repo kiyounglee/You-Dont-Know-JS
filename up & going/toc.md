@@ -1,4 +1,4 @@
-## Up & Going - [You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)
+## Up & Going - *[You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)*
 *[Foreword](forword.md) - Mar 31,2015(88p)*
 * [Chapter 1: Into Programming](ch1.md)
 	* Code
