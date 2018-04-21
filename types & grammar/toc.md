@@ -1,9 +1,5 @@
-# You Don't Know JS: Types & Grammar
-
-## Table of Contents
-
-* Foreword
-* Preface
+## Types & Grammar - [You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)
+* [Foreword](forword.md)
 * Chapter 1: Types
 	* A Type By Any Other Name...
 	* Built-in Types
