@@ -2,8 +2,8 @@
 *[Foreword](forword.md) - Dec 27,2015(278p)*
 
 * [Chapter 1: ES? Now & Future](ch1.md)   
-	Versioning   
-	Transpiling   
+	* Versioning   
+	* Transpiling   
 * [Chapter 2: Syntax](ch2.md)
 	* Block-Scoped Declarations
 	* Spread / Rest
