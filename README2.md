@@ -1,11 +1,9 @@
 ## You Dont Konw JS - *[Preface](preface.md)*
-### [Up & Going](up%20%26%20going/toc.md)
-*[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*  
+### [Up & Going](up%20%26%20going/toc.md) - *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*  
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 * [Chapter 2: Into JavaScript](up%20%26%20going/ch2.md)
 * [Chapter 3: Into YDKJS](up%20%26%20going/ch3.md)
-### [Scope & Closures](scope%20%26%20closures/toc.md)
-*[Foreword](scope%20%26%20closures/forword.md) - Mar 24,2014(98p)*   
+### [Scope & Closures](scope%20%26%20closures/toc.md) - *[Foreword](scope%20%26%20closures/forword.md) - Mar 24,2014(98p)*   
 * [Chapter 1: What is Scope?](scope%20%26%20closures/ch1.md)
 * [Chapter 2: Lexical Scope](scope%20%26%20closures/ch2.md)
 * [Chapter 3: Function vs. Block Scope](scope%20%26%20closures/ch3.md)
