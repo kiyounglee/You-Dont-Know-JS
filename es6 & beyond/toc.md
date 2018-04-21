@@ -1,7 +1,4 @@
-# You Don't Know JS: ES6 & Beyond
-
-## Table of Contents
-
+## ES6 & Beyond - [You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)
 * [Foreword](forword.md)
 * Preface
 * [Chapter 1: ES? Now & Future](ch1.md)
