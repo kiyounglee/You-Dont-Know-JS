@@ -1,4 +1,4 @@
-## *this* & Object Prototypes - _[You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)_
+## *this* & Object Prototypes - *[You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)*
 * [Foreword](forword.md)
 * Chapter 1: `this` Or That?
 	* Why `this`?
