@@ -1,4 +1,4 @@
-## Async & Performance - [You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)
+## Async & Performance - *[You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)*
 *[Foreword](forword.md) - Feb 27,2015(296p)*
 
 * [Chapter 1: Asynchrony: Now & Later](ch1.md)
