@@ -1,4 +1,5 @@
-# You Dont Konw JS : *[Preface](preface.md)*
+# [You Dont Konw JS](https://github.com/getify/You-Dont-Know-JS) 
+*[Preface](preface.md)* - By Kyle Simpson
 ### [Up & Going](up%20%26%20going/toc.md) : *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*  
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 * [Chapter 2: Into JavaScript](up%20%26%20going/ch2.md)
