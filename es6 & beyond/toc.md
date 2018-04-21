@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* Foreword
+* [Foreword](forword.md)
 * Preface
 * [Chapter 1: ES? Now & Future](ch1.md)
 	* Versioning
@@ -55,4 +55,4 @@
 	* Object Properties and `...`
 	* `Array#includes(..)`
 	* SIMD
-* [Appendix A: Acknowledgments
+* [Appendix A: Acknowledgments](apA.md)
