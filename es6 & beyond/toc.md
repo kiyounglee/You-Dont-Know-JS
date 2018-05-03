@@ -32,8 +32,17 @@
 		* Error Handling
 		* Transpiling a Generator
 		* Generator Uses
-	* [Modules](ch3.md#modules)
+	* [Modules](ch3.md#modules)	
+		* The Old Way
+		* Moving Forward
+		* The New Way
+		* Circular Module Dependency
+		* Module Loading
 	* [Classes](ch3.md#classes)
+		* class
+		* extends and super
+		* new.target
+		* static
 * [Chapter 4: Async Flow Control](ch4.md)
 	* Promises
 	* Generators + Promises
