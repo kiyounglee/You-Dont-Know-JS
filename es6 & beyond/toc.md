@@ -20,6 +20,8 @@
 * [Chapter 3: Organization](ch3.md)
 	* [Iterators](ch3.md#iterators)
 	* [Generators](ch3.md#generators)
+		Syntax 
+		
 	* [Modules](ch3.md#modules)
 	* [Classes](ch3.md#classes)
 * [Chapter 4: Async Flow Control](ch4.md)
