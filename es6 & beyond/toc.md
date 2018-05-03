@@ -19,8 +19,19 @@
 	* Symbols
 * [Chapter 3: Organization](ch3.md)
 	* [Iterators](ch3.md#iterators)
+		* Interfaces
+		* next() Iteration
+		* Optional: return(..) and throw(..)
+		* Iterator Loop
+		* Custom Iterators
+		* Iterator Consumption		
 	* [Generators](ch3.md#generators) 
-		* Syntax / Iterator Control / Early Completion / 
+		* Syntax 
+		* Iterator Control 
+		* Early Completion 
+		* Error Handling
+		* Transpiling a Generator
+		* Generator Uses
 	* [Modules](ch3.md#modules)
 	* [Classes](ch3.md#classes)
 * [Chapter 4: Async Flow Control](ch4.md)
