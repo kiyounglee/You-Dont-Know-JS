@@ -19,8 +19,7 @@
 	* Symbols
 * [Chapter 3: Organization](ch3.md)
 	* [Iterators](ch3.md#iterators)
-		* Interfaces
-		* next( ) Iteration
+		* Interfaces * next( ) Iteration
 		* Optional: return( ) and throw( )
 		* Iterator Loop
 		* Custom Iterators
