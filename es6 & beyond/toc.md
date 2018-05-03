@@ -19,29 +19,16 @@
 	* Symbols
 * [Chapter 3: Organization](ch3.md)
 	* [Iterators](ch3.md#iterators)
-		* Interfaces * next( ) Iteration
-		* Optional: return( ) and throw( )
-		* Iterator Loop
-		* Custom Iterators
-		* Iterator Consumption		
+		* Interfaces / next( ) Iteration /  Optional: return( ) and throw( )
+		* Iterator Loop / Custom Iterators / Iterator Consumption		
 	* [Generators](ch3.md#generators) 
-		* Syntax 
-		* Iterator Control 
-		* Early Completion 
-		* Error Handling
-		* Transpiling a Generator
-		* Generator Uses
+		* Syntax / Iterator Control / Early Completion 
+		* Error Handling / Transpiling a Generator / Generator Uses
 	* [Modules](ch3.md#modules)	
-		* The Old Way
-		* Moving Forward
-		* The New Way
-		* Circular Module Dependency
-		* Module Loading
+		* The Old Way / Moving Forward / The New Way
+		* Circular Module Dependency / Module Loading
 	* [Classes](ch3.md#classes)
-		* class
-		* extends and super
-		* new.target
-		* static
+		* class / extends and super / new.target / static
 * [Chapter 4: Async Flow Control](ch4.md)
 	* Promises
 	* Generators + Promises
