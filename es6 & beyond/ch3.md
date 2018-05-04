@@ -585,7 +585,7 @@ Just like with operators, it's a good idea to use `( .. )` grouping, even if not
 
 In the same way that the `*` makes a `function` declaration into `function *` generator declaration, a `*` makes `yield` into `yield *`, which is a very different mechanism, called *yield delegation*. Grammatically, `yield *..` will behave the same as a `yield ..`, as discussed in the previous section.
 
-`yield * ..` requires an iterable; it then invokes that iterable's iterator, and delegates its own host generator's control to that iterator until it's exhausted. Consider:
+`yield * ..` requires an [iterable](); it then invokes that iterable's iterator, and delegates its own host generator's control to that iterator until it's exhausted. Consider:
 
 ```js
 function *foo() {
