@@ -14,23 +14,23 @@
 	* Trust Issues
 	* Trying To Save Callbacks
 * [Chapter 3: Promises](ch3.md)
-	* What is a Promise?
-	* Thenable Duck-Typing
-	* Promise Trust
-	* Chain Flow
-	* Error Handling
-	* Promise Patterns
-	* Promise API Recap
-	* Promise Limitations
+	* [What is a Promise?](ch3.md#what-is-a-promise)
+	* [Thenable Duck-Typing](ch3.md#thenable-duck-typing)
+	* [Promise Trust](ch3.md#promise-trust)
+	* [Chain Flow](ch3.md#chain-flow)
+	* [Error Handling](ch3.md#error-handling)
+	* [Promise Patterns](ch3.md#promise-patterns)
+	* [Promise API Recap](ch3.md#promise-api-recap)
+	* [Promise Limitations](ch3.md#promise-limitations)
 * [Chapter 4: Generators](ch4.md)
-	* Breaking Run-to-completion
-	* Generator'ing Values
-	* Iterating Generators Asynchronously
-	* Generators + Promises
-	* Generator Delegation
-	* Generator Concurrency
-	* Thunks
-	* Pre-ES6 Generators
+	* [Breaking Run-to-completion](ch4.md#breaking-run-to-completion)
+	* [Generator'ing Values](ch4.md#generatoring-values)
+	* [Iterating Generators Asynchronously](ch4.md#iterating-generators-asynchronously)
+	* [Generators + Promises](ch4.md#generators--promises)
+	* [Generator Delegation](ch4.md#generator-delegation)
+	* [Generator Concurrency](ch4.md#generator-concurrency)
+	* [Thunks](ch4.md#thunks)
+	* [Pre-ES6 Generators](ch4.md#pre-es6-generators)
 * [Chapter 5: Program Performance](ch5.md)
 	* Web Workers
 	* SIMD
