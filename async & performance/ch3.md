@@ -25,8 +25,7 @@ But it turns out that some abstractions get lost on the APIs alone. Promises are
 
 So before I show the Promise code, I want to fully explain what a Promise really is conceptually. I hope this will then guide you better as you explore integrating Promise theory into your own async flow.
 
-With that in mind, let's look at two different analogies for what a Promise *is*. 
-#### [Future Value & Completion Event]()
+With that in mind, let's look at two different analogies for what a Promise *is*. **[Future Value & Completion Event]()**
 
 ### Future Value
 
