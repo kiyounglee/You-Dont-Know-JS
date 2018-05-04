@@ -41,6 +41,10 @@
 * [Chapter 1: ES? Now & Future](es6%20%26%20beyond/ch1.md)
 * [Chapter 2: Syntax](es6%20%26%20beyond/ch2.md)
 * [Chapter 3: Organization](es6%20%26%20beyond/ch3.md)
+  * Iterators
+  * Generators
+  * Modules
+  * Classes
 * [Chapter 4: Async Flow Control](es6%20%26%20beyond/ch4.md)
 * [Chapter 5: Collections](es6%20%26%20beyond/ch5.md)
 * [Chapter 6: API Additions](es6%20%26%20beyond/ch6.md)
