@@ -32,16 +32,16 @@
 	* [Thunks](ch4.md#thunks)
 	* [Pre-ES6 Generators](ch4.md#pre-es6-generators)
 * [Chapter 5: Program Performance](ch5.md)
-	* Web Workers
-	* SIMD
-	* asm.js
+	* [Web Workers](ch5.md#web-workers)
+	* [SIMD](ch5.md#simd)
+	* [asm.js](ch5.md#asmjs)
 * [Chapter 6: Benchmarking & Tuning](ch6.md)
-	* Benchmarking
-	* Context Is King
-	* jsPerf.com
-	* Writing Good Tests
-	* Microperformance
-	* Tail Call Optimization (TCO)
+	* [Benchmarking](ch6.md#benchmarking)
+	* [Context Is King](ch6.md#context-is-king)
+	* [jsPerf.com](ch6.md#jsperfcom)
+	* [Writing Good Tests](ch6.md#writing-good-tests)
+	* [Microperformance](ch6.md#microperformance)
+	* [Tail Call Optimization (TCO)](ch6.md#tail-call-optimization-tco)
 * [Appendix A: *asynquence* Library](apA.md)
 * [Appendix B: Advanced Async Patterns](apB.md)
 * [Appendix C: Acknowledgments](apC.md)
