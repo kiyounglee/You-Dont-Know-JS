@@ -50,55 +50,38 @@
 * [Chapter 6: API Additions](es6%20%26%20beyond/ch6.md)
 * [Chapter 7: Meta Programming](es6%20%26%20beyond/ch7.md)
 * [Chapter 8: Beyond ES6](es6%20%26%20beyond/ch8.md)    
-* [Chapter 1: ES? Now & Future](ch1.md)   
-	* Versioning   
-	* Transpiling   
-* [Chapter 2: Syntax](ch2.md)
-	* Block-Scoped Declarations
-	* Spread / Rest
-	* Default Parameter Values
-	* Destructuring
-	* Object Literal Extensions
-	* Template Literals
-	* Arrow Functions
-	* `for..of` Loops
-	* Regular Expression Extensions
-	* Number Literal Extensions
-	* Unicode
-	* Symbols
-* [Chapter 3: Organization](ch3.md)
-	* [Iterators](ch3.md#iterators)
-	* [Generators](ch3.md#generators) 
-	* [Modules](ch3.md#modules)	
-	* [Classes](ch3.md#classes)
-* [Chapter 4: Async Flow Control](ch4.md)
-	* [Promises](ch4.md#promises)
-	* [Generators + Promises](ch4.md#generators--promises)
-* [Chapter 5: Collections](ch5.md)
-	* TypedArrays
-	* Maps
-	* WeakMaps
-	* Sets
-	* WeakSets
-* [Chapter 6: API Additions](ch6.md)
-	* `Array`
-	* `Object`
-	* `Math`
-	* `Number`
-	* `String`
-* [Chapter 7: Meta Programming](ch7.md)
-	* [Function Names](ch7.md#function-names)
-	* [Meta Properties](ch7.md#meta-properties)
-	* [Well Known Symbols](ch7.md#well-known-symbols)
-	* [Proxies](ch7.md#proxies)
-	* [`Reflect` API](ch7.md#reflect-api)
-	* [Feature Testing](ch7.md#feature-testing)
-	* [Tail Call Optimization (TCO)](ch7.md#tail-call-optimization-tco)
-* [Chapter 8: Beyond ES6](ch8.md)
-	* [`async function`s](ch8.md#async-functions)
-	* [`Object.observe(..)`](ch8.md#objectobserve)
-	* [Exponentiation Operator](ch8.md#exponentiation-operator)
-	* [Object Properties and `...`](ch8.md#objects-properties-and-)
-	* [`Array#includes(..)`](ch8.md#arrayincludes)
-	* [SIMD](ch8.md#simd)
-	* [WebAssembly (WASM)](ch8.md#webassembly-wasm)
+* [Chapter 1: ES? Now & Future](es6%20%26%20beyond/ch1.md)   
+	* Versioning -- Transpiling   
+* [Chapter 2: Syntax](es6%20%26%20beyond/ch2.md)
+	* Block-Scoped Declarations -- Spread / Rest -- Default Parameter Values
+	* Destructuring -- Object Literal Extensions -- Template Literals
+	* Arrow Functions -- `for..of` Loops -- Regular Expression Extensions
+	* Number Literal Extensions -- Unicode -- Symbols
+* [Chapter 3: Organization](es6%20%26%20beyond/ch3.md)
+	* [Iterators](es6%20%26%20beyond/ch3.md#iterators)
+	* [Generators](es6%20%26%20beyond/ch3.md#generators) 
+	* [Modules](es6%20%26%20beyond/ch3.md#modules)	
+	* [Classes](es6%20%26%20beyond/ch3.md#classes)
+* [Chapter 4: Async Flow Control](es6%20%26%20beyond/ch4.md)
+	* [Promises](es6%20%26%20beyond/ch4.md#promises)
+	* [Generators + Promises](es6%20%26%20beyond/ch4.md#generators--promises)
+* [Chapter 5: Collections](es6%20%26%20beyond/ch5.md)
+	* TypedArrays -- Maps -- WeakMaps -- Sets -- WeakSets
+* [Chapter 6: API Additions](es6%20%26%20beyond/ch6.md)
+	* `Array` -- `Object` -- `Math` -- `Number` -- `String`
+* [Chapter 7: Meta Programming](es6%20%26%20beyond/ch7.md)
+	* [Function Names](es6%20%26%20beyond/ch7.md#function-names)
+	* [Meta Properties](es6%20%26%20beyond/ch7.md#meta-properties)
+	* [Well Known Symbols](es6%20%26%20beyond/ch7.md#well-known-symbols)
+	* [Proxies](es6%20%26%20beyond/ch7.md#proxies)
+	* [`Reflect` API](es6%20%26%20beyond/ch7.md#reflect-api)
+	* [Feature Testing](es6%20%26%20beyond/ch7.md#feature-testing)
+	* [Tail Call Optimization (TCO)](es6%20%26%20beyond/ch7.md#tail-call-optimization-tco)
+* [Chapter 8: Beyond ES6](es6%20%26%20beyond/ch8.md)
+	* [`async function`s](es6%20%26%20beyond/ch8.md#async-functions)
+	* [`Object.observe(..)`](es6%20%26%20beyond/ch8.md#objectobserve)
+	* [Exponentiation Operator](es6%20%26%20beyond/ch8.md#exponentiation-operator)
+	* [Object Properties and `...`](es6%20%26%20beyond/ch8.md#objects-properties-and-)
+	* [`Array#includes(..)`](es6%20%26%20beyond/ch8.md#arrayincludes)
+	* [SIMD](es6%20%26%20beyond/ch8.md#simd)
+	* [WebAssembly (WASM)](es6%20%26%20beyond/ch8.md#webassembly-wasm)
