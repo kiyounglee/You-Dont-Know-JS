@@ -38,18 +38,6 @@
 * [Appendix A: Library: asynquence](async%20%26%20performance/apA.md)
 * [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
 ### [ES6 & Beyond](es6%20&%20beyond/toc.md) - *Dec 27,2015(278p)*
-* [Chapter 1: ES? Now & Future](es6%20%26%20beyond/ch1.md)
-* [Chapter 2: Syntax](es6%20%26%20beyond/ch2.md)
-* [Chapter 3: Organization](es6%20%26%20beyond/ch3.md)
-	* [Iterators](es6%20%26%20beyond/ch3.md#iterators)    
-	* [Generators](es6%20%26%20beyond/ch3.md#generators)    
-	* [Modules](es6%20%26%20beyond/ch3.md#modules)    
-	* [Classes](es6%20%26%20beyond/ch3.md#classes)    
-* [Chapter 4: Async Flow Control](es6%20%26%20beyond/ch4.md)
-* [Chapter 5: Collections](es6%20%26%20beyond/ch5.md)
-* [Chapter 6: API Additions](es6%20%26%20beyond/ch6.md)
-* [Chapter 7: Meta Programming](es6%20%26%20beyond/ch7.md)
-* [Chapter 8: Beyond ES6](es6%20%26%20beyond/ch8.md)    
 * [Chapter 1: ES? Now & Future](es6%20%26%20beyond/ch1.md)   
 	* Versioning -- Transpiling   
 * [Chapter 2: Syntax](es6%20%26%20beyond/ch2.md)
