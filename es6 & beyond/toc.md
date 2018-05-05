@@ -45,13 +45,13 @@
 	* `Number`
 	* `String`
 * [Chapter 7: Meta Programming](ch7.md)
-	* Function Names
-	* Meta Properties
-	* Well Known Symbols
-	* Proxies
-	* `Reflect` API
-	* Feature Testing
-	* Tail Call Optimization (TCO)
+	* [Function Names](ch7.md#function-names)
+	* [Meta Properties](ch7.md#meta-properties)
+	* [Well Known Symbols](ch7.md#well-known-symbols)
+	* [Proxies](ch7.md#proxies)
+	* [`Reflect` API](ch7.md#reflect-api)
+	* [Feature Testing](ch7.md#feature-testing)
+	* [Tail Call Optimization (TCO)](ch7.md#tail-call-optimization-tco)
 * [Chapter 8: Beyond ES6](ch8.md)
 	* [`async function`s](ch8.md#async-functions)
 	* [`Object.observe(..)`](ch8.md#objectobserve)
