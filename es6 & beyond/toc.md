@@ -30,9 +30,8 @@
 	* [Classes](ch3.md#classes)
 		* `class` -- `extends` and `super` -- `new.target` -- `static`
 * [Chapter 4: Async Flow Control](ch4.md)
-	* Promises
-		* Making and Using Promises -- Thenables -- `Promise` API
-	* Generators + Promises
+	* [Promises](ch4.md#promises)
+	* [Generators + Promises](ch4.md#generators--promises)
 * [Chapter 5: Collections](ch5.md)
 	* TypedArrays
 	* Maps
