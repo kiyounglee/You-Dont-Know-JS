@@ -85,7 +85,7 @@ main()
 
 Instead of the `function *main() { ..` declaration, we declare with the `async function main() { ..` form. And instead of `yield`ing a promise, we `await` the promise. The call to run the function `main()` actually returns a promise that we can directly observe. That's the equivalent to the promise that we get back from a `run(main)` call.
 
-Do you see the symmetry? `async function` is essentially syntactic sugar for the generators + promises + `run(..)` pattern; under the covers, it operates the same!
+Do you see the symmetry? **[`async function` is essentially syntactic sugar for the generators + promises + `run(..)` pattern]()**; under the covers, it operates the same!
 
 If you're a C# developer and this `async`/`await` looks familiar, it's because this feature is directly inspired by C#'s feature. It's nice to see language precedence informing convergence!
 
