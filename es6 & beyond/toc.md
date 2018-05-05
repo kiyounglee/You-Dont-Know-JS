@@ -53,10 +53,11 @@
 	* Feature Testing
 	* Tail Call Optimization (TCO)
 * [Chapter 8: Beyond ES6](ch8.md)
-	* `async function`s
-	* `Object.observe(..)`
-	* Exponentiation Operator
-	* Object Properties and `...`
-	* `Array#includes(..)`
-	* SIMD
+	* [`async function`s](ch8.md#async-functions)
+	* [`Object.observe(..)`](ch8.md#objectobserve)
+	* [Exponentiation Operator](ch8.md#exponentiation-operator)
+	* [Object Properties and `...`](ch8.md#objects-properties-and-)
+	* [`Array#includes(..)`](ch8.md#arrayincludes)
+	* [SIMD](ch8.md#simd)
+	* [WebAssembly (WASM)](ch8.md#webassembly-wasm)
 * [Appendix A: Acknowledgments](apA.md)
