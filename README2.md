@@ -41,15 +41,15 @@
 * [Chapter 1: ES? Now & Future](es6%20%26%20beyond/ch1.md)
 * [Chapter 2: Syntax](es6%20%26%20beyond/ch2.md)
 * [Chapter 3: Organization](es6%20%26%20beyond/ch3.md)
- * [Iterators](es6%20%26%20beyond/ch3.md#iterators)
- * [Generators](es6%20%26%20beyond/ch3.md#generators)
- * [Modules](es6%20%26%20beyond/ch3.md#modules)
- * [Classes](es6%20%26%20beyond/ch3.md#classes)
+	* [Iterators](es6%20%26%20beyond/ch3.md#iterators)
+	* [Generators](es6%20%26%20beyond/ch3.md#generators)
+	* [Modules](es6%20%26%20beyond/ch3.md#modules)
+	* [Classes](es6%20%26%20beyond/ch3.md#classes)
 * [Chapter 4: Async Flow Control](es6%20%26%20beyond/ch4.md)
 * [Chapter 5: Collections](es6%20%26%20beyond/ch5.md)
 * [Chapter 6: API Additions](es6%20%26%20beyond/ch6.md)
 * [Chapter 7: Meta Programming](es6%20%26%20beyond/ch7.md)
-* [Chapter 8: Beyond ES6](es6%20%26%20beyond/ch8.md)
+* [Chapter 8: Beyond ES6](es6%20%26%20beyond/ch8.md)    
 
 * [Chapter 1: ES? Now & Future](ch1.md)   
 	* Versioning   
@@ -69,16 +69,9 @@
 	* Symbols
 * [Chapter 3: Organization](ch3.md)
 	* [Iterators](ch3.md#iterators)
-		* Interfaces -- `next( )` Iteration --  Optional: `return( )` and `throw( )`
-		* Iterator Loop -- Custom Iterators -- Iterator Consumption		
 	* [Generators](ch3.md#generators) 
-		* Syntax -- Iterator Control -- Early Completion 
-		* Error Handling -- Transpiling a Generator -- Generator Uses
 	* [Modules](ch3.md#modules)	
-		* The Old Way -- Moving Forward -- The New Way
-		* Circular Module Dependency -- Module Loading
 	* [Classes](ch3.md#classes)
-		* `class` -- `extends` and `super` -- `new.target` -- `static`
 * [Chapter 4: Async Flow Control](ch4.md)
 	* [Promises](ch4.md#promises)
 	* [Generators + Promises](ch4.md#generators--promises)
