@@ -2,17 +2,17 @@
 *[Foreword](forword.md) - Feb 27,2015(296p)*
 
 * [Chapter 1: Asynchrony: Now & Later](ch1.md)
-	* A Program In Chunks
-	* Event Loop
-	* Parallel Threading
-	* Concurrency
-	* Jobs
-	* Statement Ordering
+	* [A Program In Chunks](ch1.md#a-program-in-chunks)
+	* [Event Loop](ch1.md#event-loop)
+	* [Parallel Threading](ch1.md#parallel-threading)
+	* [Concurrency](ch1.md#concurrency)
+	* [Jobs](ch1.md#jobs)
+	* [Statement Ordering](ch1.md#statement-ordering)
 * [Chapter 2: Callbacks](ch2.md)
-	* Continuations
-	* Sequential Brain
-	* Trust Issues
-	* Trying To Save Callbacks
+	* [Continuations](ch2.md#continuations)
+	* [Sequential Brain](ch2.md#sequential-brain)
+	* [Trust Issues](ch2.md#trust-issues)
+	* [Trying To Save Callbacks](ch2.md#trying-to-save-callbacks)
 * [Chapter 3: Promises](ch3.md)
 	* [What is a Promise?](ch3.md#what-is-a-promise)
 	* [Thenable Duck-Typing](ch3.md#thenable-duck-typing)
