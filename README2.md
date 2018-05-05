@@ -41,15 +41,11 @@
 * [Chapter 1: ES? Now & Future](es6%20%26%20beyond/ch1.md)   
 	* Versioning -- Transpiling   
 * [Chapter 2: Syntax](es6%20%26%20beyond/ch2.md)
-	* Block-Scoped Declarations -- Spread / Rest -- Default Parameter Values
-	* Destructuring -- Object Literal Extensions -- Template Literals
-	* Arrow Functions -- `for..of` Loops -- Regular Expression Extensions
-	* Number Literal Extensions -- Unicode -- Symbols
+	* Block-Scoped Declarations -- Spread / Rest -- Default Parameter Values -- Destructuring
+	* Object Literal Extensions -- Template Literals -- Arrow Functions -- `for..of` Loops
+	* Regular Expression Extensions -- Number Literal Extensions -- Unicode -- Symbols
 * [Chapter 3: Organization](es6%20%26%20beyond/ch3.md)
-	* [Iterators](es6%20%26%20beyond/ch3.md#iterators)
-	* [Generators](es6%20%26%20beyond/ch3.md#generators) 
-	* [Modules](es6%20%26%20beyond/ch3.md#modules)	
-	* [Classes](es6%20%26%20beyond/ch3.md#classes)
+	* [Iterators](es6%20%26%20beyond/ch3.md#iterators) -- [Generators](es6%20%26%20beyond/ch3.md#generators) -- [Modules](es6%20%26%20beyond/ch3.md#modules) -- [Classes](es6%20%26%20beyond/ch3.md#classes)
 * [Chapter 4: Async Flow Control](es6%20%26%20beyond/ch4.md)
 	* [Promises](es6%20%26%20beyond/ch4.md#promises)
 	* [Generators + Promises](es6%20%26%20beyond/ch4.md#generators--promises)
