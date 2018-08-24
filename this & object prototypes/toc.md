@@ -3,34 +3,34 @@
 * [Chapter 1: `this` Or That?](ch1.md)
 	* Why `this`?
 	* Confusions
-	* What's `this`? -- [Review (TL;DR)](ch1.md#review-tldr)
+	* What's `this`? -- [(TL;DR)](ch1.md#review-tldr)
 * [Chapter 2: `this` All Makes Sense Now!](ch2.md)
 	* Call-site
 	* Nothing But Rules
 	* Everything In Order
 	* Binding Exceptions
-	* Lexical `this` -- [Review (TL;DR)](ch2.md#review-tldr)
+	* Lexical `this` -- [(TL;DR)](ch2.md#review-tldr)
 * [Chapter 3: Objects](ch3.md)
 	* Syntax
 	* Type
 	* Contents
-	* Iteration -- [Review (TL;DR)](ch3.md#review-tldr)
+	* Iteration -- [(TL;DR)](ch3.md#review-tldr)
 * [Chapter 4: Mixing (Up) "Class" Objects](ch4.md)
 	* Class Theory
 	* Class Mechanics
 	* Class Inheritance
-	* Mixins -- [Review (TL;DR)](ch4.md#review-tldr)
+	* Mixins -- [(TL;DR)](ch4.md#review-tldr)
 * [Chapter 5: Prototypes](ch5.md)
 	* `[[Prototype]]`
 	* "Class"
 	* "(Prototypal) Inheritance"
-	* Object Links -- [Review (TL;DR)](ch5.md#review-tldr)
+	* Object Links -- [(TL;DR)](ch5.md#review-tldr)
 * [Chapter 6: Behavior Delegation](ch6.md)
 	* Towards Delegation-Oriented Design
 	* Classes vs. Objects
 	* Simpler Design
 	* Nicer Syntax
-	* Introspection -- [Review (TL;DR)](ch6.md#review-tldr)
+	* Introspection -- [(TL;DR)](ch6.md#review-tldr)
 * [Appendix A: ES6 `class`](apA.md)
 * [Appendix B: Acknowledgments](apB.md)
 
