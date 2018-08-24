@@ -6,7 +6,7 @@
 	* Nested Scope
 	* Errors
 	* [Review (TL;DR)](ch1.md#review-tldr)
-* [Chapter 2: Lexical Scope](ch2.md)
+* [Chapter 2: Lexical Scope](ch2.md) - [Review (TL;DR)](ch2.md#review-tldr)
 	* Lex-time
 	* Cheating Lexical
 * [Chapter 3: Function vs. Block Scope](ch3.md)
