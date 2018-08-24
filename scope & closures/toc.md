@@ -23,7 +23,7 @@
 	* Now I Can See
 	* Loops + Closure
 	* Modules
-* Appendix A: Dynamic Scope](apA.md)
-* Appendix B: Polyfilling Block Scope](apB.md)
-* Appendix C: Lexical-this](apC.md)
-* Appendix D: Acknowledgments](apD.md)
+* [Appendix A: Dynamic Scope](apA.md)
+* [Appendix B: Polyfilling Block Scope](apB.md)
+* [Appendix C: Lexical-this](apC.md)
+* [Appendix D: Acknowledgments](apD.md)
