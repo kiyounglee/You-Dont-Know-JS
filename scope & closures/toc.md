@@ -5,6 +5,7 @@
 	* Understanding Scope
 	* Nested Scope
 	* Errors
+	* [Review (TL;DR)](#review-tldr)
 * [Chapter 2: Lexical Scope](ch2.md)
 	* Lex-time
 	* Cheating Lexical
