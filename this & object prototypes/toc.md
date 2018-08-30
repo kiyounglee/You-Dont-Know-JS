@@ -16,7 +16,7 @@
 	* Contents
 		* Computed Property Names / Property vs. Method / Arrays
 		* Duplicating Objects / Property Descriptors / Immutability
-		* [[Get]] / [[Put]] / Getters & Setters / Existence
+		* `[[Get]]` / `[[Put]]` / Getters & Setters / Existence
 	* Iteration
 * [Chapter 4: Mixing (Up) "Class" Objects](ch4.md) ---- [Review](ch4.md#review-tldr)
 	* Class Theory
