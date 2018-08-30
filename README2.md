@@ -17,12 +17,11 @@
 * [Chapter 1: *this* Or That?](this%20%26%20object%20prototypes/ch1.md)
 * [Chapter 2: *this* All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md)
 * [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
-	* Syntax -- Type
+	* Syntax -- Type -- Contents -- Iteration
 	* Contents
 		* Computed Property Names / Property vs. Method / Arrays
 		* Duplicating Objects / Property Descriptors / Immutability
 		* `[[Get]]` / `[[Put]]` / Getters & Setters / Existence
-	* Iteration
 * [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md)
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md)
