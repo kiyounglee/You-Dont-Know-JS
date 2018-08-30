@@ -579,7 +579,7 @@ The `myObject.a` is a property access, but it doesn't *just* look in `myObject` 
 
 According to the spec, the code above actually performs a `[[Get]]` operation (kinda like a function call: `[[Get]]()`) on the `myObject`. The default built-in `[[Get]]` operation for an object *first* inspects the object for a property of the requested name, and if it finds it, it will return the value accordingly.
 
-However, the `[[Get]]` algorithm defines other important behavior if it does *not* find a property of the requested name. We will examine in Chapter 5 what happens *next* (traversal of the `[[Prototype]]` chain, if any).
+However, the `[[Get]]` algorithm defines other important behavior if it does *not* find a property of the requested name. We will examine in [Chapter 5](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch5.md#prototype) what happens *next* (traversal of the `[[Prototype]]` chain, if any).
 
 But one important result of this `[[Get]]` operation is that if it cannot through any means come up with a value for the requested property, it instead returns the value `undefined`.
 
@@ -621,7 +621,7 @@ If the property is present, the `[[Put]]` algorithm will roughly check:
 2. Is the property a data descriptor with `writable` of `false`? **If so, silently fail in `non-strict mode`, or throw `TypeError` in `strict mode`.**
 3. Otherwise, set the value to the existing property as normal.
 
-If the property is not yet present on the object in question, the `[[Put]]` operation is even more nuanced and complex. We will revisit this scenario in Chapter 5 when we discuss `[[Prototype]]` to give it more clarity.
+If the property is not yet present on the object in question, the `[[Put]]` operation is even more nuanced and complex. We will revisit this scenario in [Chapter 5](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch5.md#prototype) when we discuss `[[Prototype]]` to give it more clarity.
 
 ### Getters & Setters
 
