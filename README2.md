@@ -17,7 +17,7 @@
 * [Chapter 1: *this* Or That?](this%20%26%20object%20prototypes/ch1.md)
 * [Chapter 2: *this* All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md)
 * [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
-	* Syntax -- Type -- Contents(↓) -- Iteration
+	* Syntax -- Type -- ▼ Contents -- Iteration
 		* Computed Property Names / Property vs. Method / Arrays
 		* Duplicating Objects / Property Descriptors / Immutability
 		* `[[Get]]` / `[[Put]]` / Getters & Setters / Existence
