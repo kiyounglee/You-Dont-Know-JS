@@ -31,6 +31,11 @@
 ### [Types & Grammar](types%20%26%20grammar/toc.md) - *Feb 4,2015(198p)*
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md)
 * [Chapter 2: Values](types%20%26%20grammar/ch2.md)
+	* Arrays
+	* Strings
+	* Numbers
+	* Special Values
+	* Value vs Reference
 * [Chapter 3: Natives](types%20%26%20grammar/ch3.md)
 * [Chapter 4: Coercion](types%20%26%20grammar/ch4.md)
 * [Chapter 5: Grammar](types%20%26%20grammar/ch5.md)
