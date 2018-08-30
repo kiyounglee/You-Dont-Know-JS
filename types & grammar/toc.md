@@ -15,6 +15,10 @@
 	* Boxing Wrappers
 	* Unboxing
 	* Natives as Constructors
+		* `Array(..)`
+		* `Object(..)`, `Function(..)`, and `RegExp(..)`
+		* `Date(..)` and `Error(..)`
+		* `Symbol(..)`
 * [Chapter 4: Coercion](ch4.md) ---- [Review](ch4.md#review)
 	* Converting Values
 	* Abstract Value Operations
