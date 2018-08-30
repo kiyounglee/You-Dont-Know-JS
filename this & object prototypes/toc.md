@@ -25,6 +25,8 @@
 	* Mixins
 * [Chapter 5: Prototypes](ch5.md) ---- [Review](ch5.md#review-tldr)
 	* `[[Prototype]]`
+		* `Object.prototype`
+		* Setting & Shadowing Properties
 	* "Class"
 	* "(Prototypal) Inheritance"
 	* Object Links
