@@ -14,6 +14,7 @@
 	* Syntax
 	* Type
 	* Contents
+		* Computed Property Names
 	* Iteration
 * [Chapter 4: Mixing (Up) "Class" Objects](ch4.md) ---- [Review](ch4.md#review-tldr)
 	* Class Theory
