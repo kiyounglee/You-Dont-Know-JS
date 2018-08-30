@@ -17,8 +17,7 @@
 * [Chapter 1: *this* Or That?](this%20%26%20object%20prototypes/ch1.md)
 * [Chapter 2: *this* All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md)
 * [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
-	* Syntax
-	* Type
+	* Syntax -- Type
 	* Contents
 		* Computed Property Names / Property vs. Method / Arrays
 		* Duplicating Objects / Property Descriptors / Immutability
@@ -35,6 +34,8 @@
 * [Chapter 3: Natives](types%20%26%20grammar/ch3.md)
 * [Chapter 4: Coercion](types%20%26%20grammar/ch4.md)
 * [Chapter 5: Grammar](types%20%26%20grammar/ch5.md)
+	* Statements & Expressions -- Operator Precedence -- Automatic Semicolons
+	* Errors -- Function Arguments -- `try..finally` -- `switch`
 * [Appendix A: Mixed Environment JavaScript](types%20%26%20grammar/apA.md)
 ### [Async & Performance](async%20%26%20performance/toc.md) - *Feb 27,2015(296p)*
 * [Chapter 1: Asynchrony: Now & Later](async%20%26%20performance/ch1.md)
