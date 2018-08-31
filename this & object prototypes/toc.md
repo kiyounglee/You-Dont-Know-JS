@@ -6,7 +6,7 @@
 	* What's `this`?
 * [Chapter 2: `this` All Makes Sense Now!](ch2.md) ---- [Review](ch2.md#review-tldr)
 	* Call-site
-	* Nothing But Rules
+	* Nothing But Rules(`this` binding)
 	* Everything In Order
 	* Binding Exceptions
 	* Lexical `this`
