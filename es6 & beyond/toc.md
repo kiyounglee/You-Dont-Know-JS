@@ -2,7 +2,7 @@
 *[Foreword](forword.md) - Dec 27,2015(278p)*
 
 * [Chapter 1: ES? Now & Future](ch1.md)   
-	* Versioning -- * Transpiling   
+	* Versioning -- Transpiling   
 * [Chapter 2: Syntax](ch2.md)
 	* Block-Scoped Declarations
 	* Spread / Rest
@@ -32,17 +32,9 @@
 	* [Promises](ch4.md#promises)
 	* [Generators + Promises](ch4.md#generators--promises)
 * [Chapter 5: Collections](ch5.md)
-	* TypedArrays
-	* Maps
-	* WeakMaps
-	* Sets
-	* WeakSets
+	* TypedArrays -- Maps -- WeakMaps -- Sets -- WeakSets
 * [Chapter 6: API Additions](ch6.md)
-	* `Array`
-	* `Object`
-	* `Math`
-	* `Number`
-	* `String`
+	* `Array` -- `Object` -- `Math` -- `Number` -- `String`
 * [Chapter 7: Meta Programming](ch7.md)
 	* [Function Names](ch7.md#function-names)
 	* [Meta Properties](ch7.md#meta-properties)
