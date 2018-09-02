@@ -147,7 +147,7 @@ In JavaScript, classes can't (being that they don't exist!) describe what an obj
 
 There's a peculiar kind of behavior in JavaScript that has been shamelessly abused for years to *hack* something that *looks* like "classes". We'll examine this approach in detail.
 
-The peculiar "sort-of class" behavior hinges on a strange characteristic of functions: all functions by default get a public, non-enumerable (see Chapter 3) property on them called `prototype`, which points at an otherwise arbitrary object.
+The peculiar "sort-of class" behavior hinges on a strange characteristic of functions: [all functions by default get a public, non-enumerable (see Chapter 3) property on them called `prototype`, which points at an otherwise arbitrary object.]()
 
 ```js
 function Foo() {
