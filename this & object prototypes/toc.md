@@ -32,6 +32,9 @@
 	* Object Links
 * [Chapter 6: Behavior Delegation](ch6.md) ---- [Review](ch6.md#review-tldr)
 	* Towards Delegation-Oriented Design
+		* Class Theory
+		* Delegation Theory
+		* Mental Models Compared
 	* Classes vs. Objects
 	* Simpler Design
 	* Nicer Syntax
