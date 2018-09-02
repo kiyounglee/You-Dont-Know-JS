@@ -419,7 +419,7 @@ a.myName(); // "a"
 a.myLabel(); // "obj a"
 ```
 
-**Note:** To understand why `this` points to `a` in the above code snippet, see Chapter 2.
+**Note:** To understand why `this` points to `a` in the above code snippet, see [Chapter 2.](ch2.md#new-binding)
 
 The important part is `Bar.prototype = Object.create( Foo.prototype )`. `Object.create(..)` *creates* a "new" object out of thin air, and links that new object's internal `[[Prototype]]` to the object you specify (`Foo.prototype` in this case).
 
