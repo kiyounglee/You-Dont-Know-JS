@@ -54,7 +54,8 @@
 * [Chapter 3: Organization](es6%20%26%20beyond/ch3.md)
 	* [Iterators](es6%20%26%20beyond/ch3.md#iterators) -- [Generators](es6%20%26%20beyond/ch3.md#generators) -- [Modules](es6%20%26%20beyond/ch3.md#modules) -- [Classes](es6%20%26%20beyond/ch3.md#classes)
 * [Chapter 4: Async Flow Control](es6%20%26%20beyond/ch4.md)
-	* [Promises](es6%20%26%20beyond/ch4.md#promises) -- [Generators + Promises](es6%20%26%20beyond/ch4.md#generators--promises)
+	* [Promises](es6%20%26%20beyond/ch4.md#promises)
+	* [Generators + Promises](es6%20%26%20beyond/ch4.md#generators--promises)
 * [Chapter 5: Collections](es6%20%26%20beyond/ch5.md)
 	* TypedArrays -- Maps -- WeakMaps -- Sets -- WeakSets
 * [Chapter 6: API Additions](es6%20%26%20beyond/ch6.md)
