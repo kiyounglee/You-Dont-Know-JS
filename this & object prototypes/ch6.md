@@ -680,7 +680,7 @@ var controller2 = Object.create( AuthController );
 
 With behavior delegation, `AuthController` and `LoginController` are **just objects**, *horizontal* peers of each other, and are not arranged or related as parents and children in class-orientation. We somewhat arbitrarily chose to have `AuthController` delegate to `LoginController` -- it would have been just as valid for the delegation to go the reverse direction.
 
-The main takeaway from this second code listing is that we only have two entities (`LoginController` and `AuthController`), **not three** as before.
+[The main takeaway from this second code listing is that we only have two entities (`LoginController` and `AuthController`), **not three** as before.]()
 
 We didn't need a base `Controller` class to "share" behavior between the two, because delegation is a powerful enough mechanism to give us the functionality we need. We also, as noted before, don't need to instantiate our classes to work with them, because there are no classes, **just the objects themselves.** Furthermore, there's no need for *composition* as delegation gives the two objects the ability to cooperate *differentially* as needed.
 
