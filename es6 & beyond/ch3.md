@@ -1726,7 +1726,7 @@ Caution! Though `class Foo` seems much like `function Foo()`, there are importan
 
 The established `instanceof` operator still works with ES6 classes, because `class` just creates a constructor function of the same name. However, ES6 introduces a way to customize how `instanceof` works, using `Symbol.hasInstance` (see "Well-Known Symbols" in Chapter 7).
 
-Another way of thinking about `class`, which I find more convenient, is as a *macro* that is used to automatically populate a `prototype` object. Optionally, it also wires up the `[[Prototype]]` relationship if using `extends` (see the next section).
+[Another way of thinking about `class`, which I find more convenient, is as a ***macro*** that is used to automatically populate a `prototype` object.]() Optionally, it also wires up the `[[Prototype]]` relationship if using `extends` (see the next section).
 
 An ES6 `class` isn't really an entity itself, but a meta concept that wraps around other concrete entities, such as functions and properties, and ties them together.
 
