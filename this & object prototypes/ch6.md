@@ -762,7 +762,7 @@ var Foo = {
 
 See the difference? The `bar()` short-hand became an *anonymous function expression* (`function()..`) attached to the `bar` property, because the function object itself has no name identifier. Compare that to the manually specified *named function expression* (`function baz()..`) which has a lexical name identifier `baz` in addition to being attached to a `.baz` property.
 
-So what? In the [*"Scope & Closures"* title of this *"You Don't Know JS"* book series](scope%20%26%20closures/ch3.md#anonymous-vs-named), we cover the three main downsides of *anonymous function expressions* in detail. We'll just briefly repeat them so we can compare to the concise method short-hand.
+So what? In the [*"Scope & Closures"* title of this *"You Don't Know JS"* book series](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md#anonymous-vs-named), we cover the three main downsides of *anonymous function expressions* in detail. We'll just briefly repeat them so we can compare to the concise method short-hand.
 
 Lack of a `name` identifier on an anonymous function:
 
