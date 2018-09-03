@@ -467,7 +467,7 @@ Not only does this delegation design pattern suggest different and more descript
 
 Syntactically, we also don't have any constructors, `.prototype` or `new` present, as they are, in fact, just unnecessary cruft.
 
-Now, if you're paying close attention, you may notice that what was previously just one call (`var btn1 = new Button(..)`) is now two calls (`var btn1 = Object.create(Button)` and `btn1.setup(..)`). Initially this may seem like a drawback (more code).
+Now, if you're paying close attention, you may notice that [what was previously just one call (`var btn1 = new Button(..)`) is now two calls (`var btn1 = Object.create(Button)` and `btn1.setup(..)`).]() Initially this may seem like a drawback (more code).
 
 However, even this is something that's **a pro of OLOO style code** as compared to classical prototype style code. How?
 
