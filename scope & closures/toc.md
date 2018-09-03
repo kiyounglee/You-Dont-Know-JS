@@ -12,6 +12,8 @@
 	* Scope From Functions
 	* Hiding In Plain Scope
 	* Functions As Scopes
+		* Anonymous vs. Named
+		* IIEF(Invoking Function Expressions Immediately)
 	* Blocks As Scopes
 * [Chapter 4: Hoisting](ch4.md) ---- [Review](ch4.md#review-tldr)
 	* Chicken Or The Egg?
