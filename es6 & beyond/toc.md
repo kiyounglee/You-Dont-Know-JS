@@ -4,18 +4,9 @@
 * [Chapter 1: ES? Now & Future](ch1.md)   
 	* Versioning -- Transpiling   
 * [Chapter 2: Syntax](ch2.md)
-	* Block-Scoped Declarations
-	* Spread / Rest
-	* Default Parameter Values
-	* Destructuring
-	* Object Literal Extensions
-	* Template Literals
-	* Arrow Functions
-	* `for..of` Loops
-	* Regular Expression Extensions
-	* Number Literal Extensions
-	* Unicode
-	* Symbols
+	* Block-Scoped Declarations -- Spread / Rest -- Default Parameter Values -- Destructuring
+	* Object Literal Extensions -- Template Literals -- Arrow Functions -- `for..of` Loops
+	* Regular Expression Extensions -- Number Literal Extensions -- Unicode -- Symbols
 * [Chapter 3: Organization](ch3.md)
 	* [Iterators](ch3.md#iterators)
 		* Interfaces -- `next( )` Iteration --  Optional: `return( )` and `throw( )`
@@ -35,13 +26,8 @@
 * [Chapter 6: API Additions](ch6.md)
 	* `Array` -- `Object` -- `Math` -- `Number` -- `String`
 * [Chapter 7: Meta Programming](ch7.md)
-	* [Function Names](ch7.md#function-names)
-	* [Meta Properties](ch7.md#meta-properties)
-	* [Well Known Symbols](ch7.md#well-known-symbols)
-	* [Proxies](ch7.md#proxies)
-	* [`Reflect` API](ch7.md#reflect-api)
-	* [Feature Testing](ch7.md#feature-testing)
-	* [Tail Call Optimization (TCO)](ch7.md#tail-call-optimization-tco)
+	* [Function Names](ch7.md#function-names) -- [Meta Properties](ch7.md#meta-properties) -- [Well Known Symbols](ch7.md#well-known-symbols) -- [Proxies](ch7.md#proxies)
+	* [`Reflect` API](ch7.md#reflect-api) -- [Feature Testing](ch7.md#feature-testing) -- [Tail Call Optimization (TCO)](ch7.md#tail-call-optimization-tco)
 * [Chapter 8: Beyond ES6](ch8.md)
 	* [`async function`s](ch8.md#async-functions)
 	* [`Object.observe(..)`](ch8.md#objectobserve)
