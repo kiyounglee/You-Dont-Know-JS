@@ -1913,7 +1913,7 @@ The `ouch` custom error object in this previous snippet will behave like any oth
 
 ### `new.target`
 
-ES6 introduces a new concept called a *meta property* (see Chapter 7), in the form of `new.target`.
+ES6 introduces a new concept called a [*meta property* (see Chapter 7)](ch7.md#meta-properties), in the form of `new.target`.
 
 If that looks strange, it is; pairing a keyword with a `.` and a property name is definitely an out-of-the-ordinary pattern for JS.
 
