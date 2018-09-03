@@ -1953,7 +1953,7 @@ If `new.target` is `undefined`, you know the function was not called with `new`.
 
 ### `static`
 
-When a subclass `Bar` extends a parent class `Foo`, we already observed that `Bar.prototype` is `[[Prototype]]`-linked to `Foo.prototype`. But additionally, `Bar()` is `[[Prototype]]`-linked to `Foo()`. That part may not have such an obvious reasoning.
+When a subclass `Bar` extends a parent class `Foo`, we already observed that `Bar.prototype` is `[[Prototype]]`-linked to `Foo.prototype`. [**But additionally, `Bar()` is `[[Prototype]]`-linked to `Foo()`**](). That part may not have such an obvious reasoning.
 
 However, it's quite useful in the case where you declare `static` methods (not just properties) for a class, as these are added directly to that class's function object, not to the function object's `prototype` object. Consider:
 
