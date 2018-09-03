@@ -1756,7 +1756,7 @@ b.z;						// 25
 b.gimmeXYZ();				// 1875
 ```
 
-A significant new addition is `super`, which is actually something not directly possible pre-ES6 (without some unfortunate hack trade-offs). In the constructor, `super` automatically refers to the "parent constructor," which in the previous example is `Foo(..)`. In a method, it refers to the "parent object," such that you can then make a property/method access off it, such as `super.gimmeXY()`.
+A significant new addition is `super`, which is actually something not directly possible pre-ES6 (without some unfortunate hack trade-offs). [**In the constructor**, `super` automatically refers to the "parent constructor," which in the previous example is `Foo(..)`. **In a method**, it refers to the "parent object," such that you can then make a property/method access off it, such as `super.gimmeXY()`.]()
 
 `Bar extends Foo` of course means to link the `[[Prototype]]` of `Bar.prototype` to `Foo.prototype`. So, `super` in a method like `gimmeXYZ()` specifically means `Foo.prototype`, whereas `super` means `Foo` when used in the `Bar` constructor.
 
