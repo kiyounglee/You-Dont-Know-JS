@@ -282,7 +282,7 @@ Now, let's look at the mental model for OLOO-style code:
 
 <img src="fig6.png">
 
-As you can see comparing them, it's quite obvious that OLOO-style code has *vastly less stuff* to worry about, because OLOO-style code embraces the **fact** that the only thing we ever really cared about was the **objects linked to other objects**.
+As you can see comparing them, it's quite obvious that OLOO-style code has *vastly less stuff* to worry about, because OLOO-style code embraces the **fact** that [the only thing we ever really cared about was the **objects linked to other objects**.]()
 
 All the other "class" cruft was a confusing and complex way of getting the same end result. Remove that stuff, and things get much simpler (without losing any capability).
 
