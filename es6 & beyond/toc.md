@@ -20,7 +20,8 @@
 	* [Classes](ch3.md#classes)
 		* `class` -- `extends` and `super` -- `new.target` -- `static`
 * [Chapter 4: Async Flow Control](ch4.md)
-	* [Promises](ch4.md#promises) -- [Generators + Promises](ch4.md#generators--promises)
+	* [Promises](ch4.md#promises)
+	* [Generators + Promises](ch4.md#generators--promises)
 * [Chapter 5: Collections](ch5.md)
 	* TypedArrays -- Maps -- WeakMaps -- Sets -- WeakSets
 * [Chapter 6: API Additions](ch6.md)
