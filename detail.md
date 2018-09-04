@@ -1,6 +1,6 @@
 
 ## Scope & Closures - *[You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)*
-*[Foreword](forword.md) - Mar 24,2014(98p)*
+*[Foreword](up%20%26%20going/forword.md) - Mar 24,2014(98p)*
 * [Chapter 1: What is Scope?](up%20%26%20going/ch1.md) ---- [Review](up%20%26%20going/ch1.md#review-tldr)
 	* Compiler Theory
 	* Understanding Scope
