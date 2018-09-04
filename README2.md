@@ -4,7 +4,7 @@
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 * [Chapter 2: Into JavaScript](up%20%26%20going/ch2.md)
 * [Chapter 3: Into YDKJS](up%20%26%20going/ch3.md)
-### [Scope & Closures](scope%20%26%20closures/toc.md) - *Mar 24,2014(98p)*   
+### [Scope & Closures](detail.md#scope--closures) - *Mar 24,2014(98p)*   
 * [Chapter 1: What is Scope?](scope%20%26%20closures/ch1.md)
 * [Chapter 2: Lexical Scope](scope%20%26%20closures/ch2.md)
 * [Chapter 3: Function vs. Block Scope](scope%20%26%20closures/ch3.md)
@@ -13,7 +13,7 @@
 * [Appendix A: Dynamic Scope](scope%20%26%20closures/apA.md)
 * [Appendix B: Polyfilling Block Scope](scope%20%26%20closures/apB.md)
 * [Appendix C: Lexical-this](scope%20%26%20closures/apC.md)
-### [*this* & Object Prototypes](this%20%26%20object%20prototypes/toc.md) - *Jul 27,2014(174p)*  
+### [*this* & Object Prototypes](detail.md#this--object-prototypes) - *Jul 27,2014(174p)*  
 * [Chapter 1: *this* Or That?](this%20%26%20object%20prototypes/ch1.md)
 * [Chapter 2: *this* All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md)
 * [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
@@ -25,7 +25,7 @@
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md)
 * [Appendix A: ES6 *class*](this%20%26%20object%20prototypes/apA.md)
-### [Types & Grammar](types%20%26%20grammar/toc.md) - *Feb 4,2015(198p)*
+### [Types & Grammar](detail.md#types--grammar) - *Feb 4,2015(198p)*
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md)
 * [Chapter 2: Values](types%20%26%20grammar/ch2.md)
 	* Arrays -- Strings -- Numbers -- Special Values -- Value vs Reference
@@ -35,7 +35,7 @@
 	* Statements & Expressions -- Operator Precedence -- Automatic Semicolons
 	* Errors -- Function Arguments -- `try..finally` -- `switch`
 * [Appendix A: Mixed Environment JavaScript](types%20%26%20grammar/apA.md)
-### [Async & Performance](async%20%26%20performance/toc.md) - *Feb 27,2015(296p)*
+### [Async & Performance](detail.md#async--performance) - *Feb 27,2015(296p)*
 * [Chapter 1: Asynchrony: Now & Later](async%20%26%20performance/ch1.md)
 * [Chapter 2: Callbacks](async%20%26%20performance/ch2.md)
 * [Chapter 3: Promises](async%20%26%20performance/ch3.md)
@@ -44,7 +44,7 @@
 * [Chapter 6: Benchmarking & Tuning](async%20%26%20performance/ch6.md)
 * [Appendix A: Library: asynquence](async%20%26%20performance/apA.md)
 * [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
-### [ES6 & Beyond](es6%20&%20beyond/toc.md) - *Dec 27,2015(278p)*
+### [ES6 & Beyond](detail.md#es6--beyond) - *Dec 27,2015(278p)*
 * [Chapter 1: ES? Now & Future](es6%20%26%20beyond/ch1.md)   
 	* Versioning -- Transpiling   
 * [Chapter 2: Syntax](es6%20%26%20beyond/ch2.md)
