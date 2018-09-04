@@ -1,4 +1,34 @@
-
+## Up & Going - *[You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)*
+*[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
+* [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
+	* Code
+	* Try It Yourself
+	* Operators
+	* Values & Types
+	* Code Comments
+	* Variables
+	* Blocks
+	* Conditionals
+	* Loops
+	* Functions
+	* Practice
+* [Chapter 2: Into JavaScript](up%20%26%20going/ch2.md)
+	* Values & Types
+	* Variables
+	* Conditionals
+	* Strict Mode
+	* Functions As Values
+	* `this` Keyword
+	* Prototypes
+	* Old & New
+	* Non-JavaScript
+* [Chapter 3: Into YDKJS](up%20%26%20going/ch3.md)
+	* Scope & Closures
+	* this & Object Prototypes
+	* Types & Grammar
+	* Async & Performance
+	* ES6 & Beyond
+* [Appendix A: Acknowledgments](up%20%26%20going/apA.md)
 ## Scope & Closures - *[You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)*
 *[Foreword](up%20%26%20going/forword.md) - Mar 24,2014(98p)*
 * [Chapter 1: What is Scope?](up%20%26%20going/ch1.md) ---- [Review](up%20%26%20going/ch1.md#review-tldr)
