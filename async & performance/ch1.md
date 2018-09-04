@@ -142,7 +142,7 @@ So, for example, when your JS program makes an Ajax request to fetch some data f
 
 The browser is then set up to listen for the response from the network, and when it has something to give you, it schedules the callback function to be executed by inserting it into the *event loop*.
 
-So what is the *event loop*?
+So what is the [***event loop***]()?
 
 Let's conceptualize it first through some fake-ish code:
 
