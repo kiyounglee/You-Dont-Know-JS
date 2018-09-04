@@ -171,6 +171,42 @@
 * [Appendix A: *asynquence* Library](async%20%26%20performance/apA.md)
 * [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
 * [Appendix C: Acknowledgments](async%20%26%20performance/apC.md)
-
-
-
+## ES6 & Beyond
+*[Foreword](forword.md) - Dec 27,2015(278p)*
+* [Chapter 1: ES? Now & Future](es6%20&%20beyond/ch1.md)   
+	* Versioning -- Transpiling   
+* [Chapter 2: Syntax](es6%20&%20beyond/ch2.md)
+	* Block-Scoped Declarations -- Spread / Rest -- Default Parameter Values -- Destructuring
+	* Object Literal Extensions -- Template Literals -- Arrow Functions -- `for..of` Loops
+	* Regular Expression Extensions -- Number Literal Extensions -- Unicode -- Symbols
+* [Chapter 3: Organization](es6%20&%20beyond/ch3.md)
+	* [Iterators](es6%20&%20beyond/ch3.md#iterators)
+		* Interfaces -- `next( )` Iteration --  Optional: `return( )` and `throw( )`
+		* Iterator Loop -- Custom Iterators -- Iterator Consumption		
+	* [Generators](es6%20&%20beyond/ch3.md#generators) 
+		* Syntax -- Iterator Control -- Early Completion 
+		* Error Handling -- Transpiling a Generator -- Generator Uses
+	* [Modules](es6%20&%20beyond/ch3.md#modules)	
+		* The Old Way -- Moving Forward -- The New Way
+		* Circular Module Dependency -- Module Loading
+	* [Classes](es6%20&%20beyond/ch3.md#classes)
+		* `class` -- `extends` and `super` -- `new.target` -- `static`
+* [Chapter 4: Async Flow Control](es6%20&%20beyond/ch4.md)
+	* [Promises](es6%20&%20beyond/ch4.md#promises)
+	* [Generators + Promises](es6%20&%20beyond/ch4.md#generators--promises)
+* [Chapter 5: Collections](es6%20&%20beyond/ch5.md)
+	* TypedArrays -- Maps -- WeakMaps -- Sets -- WeakSets
+* [Chapter 6: API Additions](es6%20&%20beyond/ch6.md)
+	* `Array` -- `Object` -- `Math` -- `Number` -- `String`
+* [Chapter 7: Meta Programming](es6%20&%20beyond/ch7.md)
+	* [Function Names](es6%20&%20beyond/ch7.md#function-names) -- [Meta Properties](es6%20&%20beyond/ch7.md#meta-properties) -- [Well Known Symbols](es6%20&%20beyond/ch7.md#well-known-symbols) -- [Proxies](es6%20&%20beyond/ch7.md#proxies)
+	* [`Reflect` API](es6%20&%20beyond/ch7.md#reflect-api) -- [Feature Testing](es6%20&%20beyond/ch7.md#feature-testing) -- [Tail Call Optimization (TCO)](es6%20&%20beyond/ch7.md#tail-call-optimization-tco)
+* [Chapter 8: Beyond ES6](es6%20&%20beyond/ch8.md)
+	* [`async function`s](es6%20&%20beyond/ch8.md#async-functions)
+	* [`Object.observe(..)`](es6%20&%20beyond/ch8.md#objectobserve)
+	* [Exponentiation Operator](es6%20&%20beyond/ch8.md#exponentiation-operator)
+	* [Object Properties and `...`](es6%20&%20beyond/ch8.md#objects-properties-and-)
+	* [`Array#includes(..)`](es6%20&%20beyond/ch8.md#arrayincludes)
+	* [SIMD](es6%20&%20beyond/ch8.md#simd)
+	* [WebAssembly (WASM)](es6%20&%20beyond/ch8.md#webassembly-wasm)
+* [Appendix A: Acknowledgments](es6%20&%20beyond/apA.md)
