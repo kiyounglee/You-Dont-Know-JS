@@ -185,7 +185,7 @@ So, in other words, your program is generally broken up into lots of small chunk
 
 It's very common to conflate the terms "async" and "parallel," but they are actually quite different. Remember, [**async** is about the gap between *now* and *later*.]() But [**parallel** is about things being able to occur simultaneously.]()
 
-The most common tools for parallel computing are processes and threads. Processes and threads execute independently and may execute simultaneously: on separate processors, or even separate computers, but multiple threads can share the memory of a single process.
+The most common tools for parallel computing are processes and threads. Processes and threads execute independently and may execute simultaneously: on separate processors, or even separate computers, but [multiple threads can share the memory of a single process.]()
 
 An event loop, by contrast, breaks its work into tasks and executes them in serial, disallowing parallel access and changes to shared memory. Parallelism and "serialism" can coexist in the form of cooperating event loops in separate threads.
 
@@ -282,7 +282,7 @@ JavaScript never shares data across threads, which means *that* level of nondete
 
 ### Run-to-Completion
 
-Because of JavaScript's single-threading, the code inside of `foo()` (and `bar()`) is atomic, which means that once `foo()` starts running, the entirety of its code will finish before any of the code in `bar()` can run, or vice versa. This is called "run-to-completion" behavior.
+Because of [**JavaScript's single-threading**](), the code inside of `foo()` (and `bar()`) is atomic, which means that once `foo()` starts running, the entirety of its code will finish before any of the code in `bar()` can run, or vice versa. This is called "run-to-completion" behavior.
 
 In fact, the run-to-completion semantics are more obvious when `foo()` and `bar()` have more code in them, such as:
 
