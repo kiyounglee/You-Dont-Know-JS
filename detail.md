@@ -1,5 +1,4 @@
-# [You Dont Konw JS - Detail](https://github.com/kiyounglee/You-Dont-Know-JS/edit/master/README2.md) 
-*[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
+# [You Dont Konw JS - Detail](https://github.com/kiyounglee/You-Dont-Know-JS/edit/master/README2.md)  ------ *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
 ## Up & Going -------- *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 	* Code -- Try It Yourself -- Operators -- Values & Types -- Code Comments -- Variables
