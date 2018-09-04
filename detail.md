@@ -1,4 +1,4 @@
-## Up & Going - *[You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)*
+## Up & Going
 *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 	* Code -- Try It Yourself -- Operators -- Values & Types -- Code Comments -- Variables
@@ -13,7 +13,7 @@
 	* Async & Performance
 	* ES6 & Beyond
 * [Appendix A: Acknowledgments](up%20%26%20going/apA.md)
-## Scope & Closures - *[You Don't Know JS](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)*
+## Scope & Closures
 *[Foreword](up%20%26%20going/forword.md) - Mar 24,2014(98p)*
 * [Chapter 1: What is Scope?](up%20%26%20going/ch1.md) ---- [Review](up%20%26%20going/ch1.md#review-tldr)
 	* Compiler Theory
@@ -44,3 +44,47 @@
 * [Appendix B: Polyfilling Block Scope](up%20%26%20going/apB.md)
 * [Appendix C: Lexical-this](up%20%26%20going/apC.md)
 * [Appendix D: Acknowledgments](up%20%26%20going/apD.md)
+## *this* & Object Prototypes
+*[Foreword](this%20%26%20object%20prototypes/forword.md) - Jul 27,2014(174p)*
+* [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md) ---- [Review](this%20%26%20object%20prototypes/ch1.md#review-tldr)
+	* Why `this`?
+	* Confusions
+	* What's `this`?
+* [Chapter 2: `this` All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md) ---- [Review](this%20%26%20object%20prototypes/ch2.md#review-tldr)
+	* Call-site
+	* Nothing But Rules(`this` binding)
+	* Everything In Order
+	* Binding Exceptions
+	* Lexical `this`
+* [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md) ---- [Review](this%20%26%20object%20prototypes/ch3.md#review-tldr)
+	* Syntax
+	* Type
+	* Contents
+		* Computed Property Names / Property vs. Method / Arrays
+		* Duplicating Objects / Property Descriptors / Immutability
+		* `[[Get]]` / `[[Put]]` / Getters & Setters / Existence
+	* Iteration
+* [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md) ---- [Review](this%20%26%20object%20prototypes/ch4.md#review-tldr)
+	* Class Theory
+	* Class Mechanics
+	* Class Inheritance
+	* Mixins
+* [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md) ---- [Review](this%20%26%20object%20prototypes/ch5.md#review-tldr)
+	* `[[Prototype]]`
+		* `Object.prototype`
+		* Setting & Shadowing Properties
+	* "Class"
+	* "(Prototypal) Inheritance"
+	* Object Links
+* [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md) ---- [Review](this%20%26%20object%20prototypes/ch6.md#review-tldr)
+	* Towards Delegation-Oriented Design
+		* Class Theory
+		* Delegation Theory
+		* Mental Models Compared
+	* Classes vs. Objects
+	* Simpler Design
+	* Nicer Syntax
+	* Introspection
+* [Appendix A: ES6 `class`](this%20%26%20object%20prototypes/apA.md) ---- [Review](this%20%26%20object%20prototypes/apA.md#review-tldr)
+* [Appendix B: Acknowledgments](this%20%26%20object%20prototypes/apB.md)
+
