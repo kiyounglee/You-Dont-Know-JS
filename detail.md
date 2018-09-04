@@ -1,6 +1,6 @@
 # [You Dont Konw JS - Detail](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md#you-dont-konw-js)
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
-## Up & Going
+### Up & Going
 *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 	* Code -- Try It Yourself -- Operators -- Values & Types -- Code Comments -- Variables
@@ -15,7 +15,7 @@
 	* Async & Performance
 	* ES6 & Beyond
 * [Appendix A: Acknowledgments](up%20%26%20going/apA.md)
-## Scope & Closures
+### Scope & Closures
 *[Foreword](up%20%26%20going/forword.md) - Mar 24,2014(98p)*
 * [Chapter 1: What is Scope?](up%20%26%20going/ch1.md) ---- [Review](up%20%26%20going/ch1.md#review-tldr)
 	* Compiler Theory
@@ -46,7 +46,7 @@
 * [Appendix B: Polyfilling Block Scope](up%20%26%20going/apB.md)
 * [Appendix C: Lexical-this](up%20%26%20going/apC.md)
 * [Appendix D: Acknowledgments](up%20%26%20going/apD.md)
-## *this* & Object Prototypes
+### *this* & Object Prototypes
 *[Foreword](this%20%26%20object%20prototypes/forword.md) - Jul 27,2014(174p)*
 * [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md) ---- [Review](this%20%26%20object%20prototypes/ch1.md#review-tldr)
 	* Why `this`? --- Confusions --- What's `this`?
@@ -79,7 +79,7 @@
 	* Introspection
 * [Appendix A: ES6 `class`](this%20%26%20object%20prototypes/apA.md) ---- [Review](this%20%26%20object%20prototypes/apA.md#review-tldr)
 * [Appendix B: Acknowledgments](this%20%26%20object%20prototypes/apB.md)
-## Types & Grammar
+### Types & Grammar
 *[Foreword](types%20%26%20grammar/forword.md) - Feb 4,2015(198p)*
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md) ---- [Review](types%20%26%20grammar/ch1.md#review)
 	* A Type By Any Other Name... --- Built-in Types --- Values as Types
@@ -112,7 +112,7 @@
 	* `switch`
 * [Appendix A: Mixed Environment JavaScript](types%20%26%20grammar/apA.md)
 * [Appendix B: Acknowledgments](types%20%26%20grammar/apB.md)
-## Async & Performance
+### Async & Performance
 *[Foreword](async%20%26%20performance/forword.md) - Feb 27,2015(296p)*
 * [Chapter 1: Asynchrony: Now & Later](async%20%26%20performance/ch1.md)
 	* [A Program In Chunks](async%20%26%20performance/ch1.md#a-program-in-chunks) -- [Event Loop](async%20%26%20performance/ch1.md#event-loop) -- [Parallel Threading](async%20%26%20performance/ch1.md#parallel-threading)
@@ -135,7 +135,7 @@
 * [Appendix A: *asynquence* Library](async%20%26%20performance/apA.md)
 * [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
 * [Appendix C: Acknowledgments](async%20%26%20performance/apC.md)
-## ES6 & Beyond
+### ES6 & Beyond
 *[Foreword](forword.md) - Dec 27,2015(278p)*
 * [Chapter 1: ES? Now & Future](es6%20&%20beyond/ch1.md)   
 	* Versioning -- Transpiling   
