@@ -62,15 +62,12 @@
 		* `[[Get]]` / `[[Put]]` / Getters & Setters / Existence
 	* Iteration
 * [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md) ---- [Review](this%20%26%20object%20prototypes/ch4.md#review-tldr)
-	* Class Theory --- Class Mechanics --- Class Inheritance
-	* Mixins
+	* Class Theory --- Class Mechanics --- Class Inheritance -- Mixins
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md) ---- [Review](this%20%26%20object%20prototypes/ch5.md#review-tldr)
 	* `[[Prototype]]`
 		* `Object.prototype`
 		* Setting & Shadowing Properties
-	* "Class"
-	* "(Prototypal) Inheritance"
-	* Object Links
+	* "Class" -- "(Prototypal) Inheritance" -- Object Links
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md) ---- [Review](this%20%26%20object%20prototypes/ch6.md#review-tldr)
 	* Towards Delegation-Oriented Design
 		* Class Theory
