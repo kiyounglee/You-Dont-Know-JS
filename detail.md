@@ -148,11 +148,9 @@
 		* Interfaces -- `next( )` Iteration --  Optional: `return( )` and `throw( )`
 		* Iterator Loop -- Custom Iterators -- Iterator Consumption		
 	* [Generators](es6%20&%20beyond/ch3.md#generators) 
-		* Syntax -- Iterator Control -- Early Completion 
-		* Error Handling -- Transpiling a Generator -- Generator Uses
+		* Syntax -- Iterator Control -- Early Completion -- Error Handling -- Transpiling a Generator -- Generator Uses
 	* [Modules](es6%20&%20beyond/ch3.md#modules)	
-		* The Old Way -- Moving Forward -- The New Way
-		* Circular Module Dependency -- Module Loading
+		* The Old Way -- Moving Forward -- The New Way -- Circular Module Dependency -- Module Loading
 	* [Classes](es6%20&%20beyond/ch3.md#classes)
 		* `class` -- `extends` and `super` -- `new.target` -- `static`
 * [Chapter 4: Async Flow Control](es6%20&%20beyond/ch4.md)
