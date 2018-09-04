@@ -110,23 +110,23 @@
 * [Appendix B: Acknowledgments](types%20%26%20grammar/apB.md)
 ### [Async & Performance](README2.md#async--performance---feb-272015296p) - - *Feb 27,2015(296p) - [Foreword](async%20%26%20performance/forword.md)*
 * [Chapter 1: Asynchrony: Now & Later](async%20%26%20performance/ch1.md)
-	* [A Program In Chunks](async%20%26%20performance/ch1.md#a-program-in-chunks) -- [Event Loop](async%20%26%20performance/ch1.md#event-loop) -- [Parallel Threading](async%20%26%20performance/ch1.md#parallel-threading)
-	* [Concurrency](async%20%26%20performance/ch1.md#concurrency) -- [Jobs](async%20%26%20performance/ch1.md#jobs) -- [Statement Ordering](async%20%26%20performance/ch1.md#statement-ordering)
+	* A Program In Chunks -- Event Loop -- Parallel Threading
+	* Concurrency -- Jobs -- Statement Ordering
 * [Chapter 2: Callbacks](async%20%26%20performance/ch2.md)
-	* [Continuations](async%20%26%20performance/ch2.md#continuations) -- [Sequential Brain](async%20%26%20performance/ch2.md#sequential-brain) -- [Trust Issues](async%20%26%20performance/ch2.md#trust-issues) -- [Trying To Save Callbacks](async%20%26%20performance/ch2.md#trying-to-save-callbacks)
+	* Continuations -- Sequential Brain -- Trust Issues -- Trying To Save Callbacks
 * [Chapter 3: Promises](async%20%26%20performance/ch3.md)
-	* [What is a Promise?](async%20%26%20performance/ch3.md#what-is-a-promise) -- [Thenable Duck-Typing](async%20%26%20performance/ch3.md#thenable-duck-typing) -- [Promise Trust](async%20%26%20performance/ch3.md#promise-trust) -- [Chain Flow](async%20%26%20performance/ch3.md#chain-flow)
-	* [Error Handling](async%20%26%20performance/ch3.md#error-handling) -- [Promise Patterns](async%20%26%20performance/ch3.md#promise-patterns) -- [Promise API Recap](async%20%26%20performance/ch3.md#promise-api-recap) -- [Promise Limitations](async%20%26%20performance/ch3.md#promise-limitations)
+	* What is a Promise? -- Thenable Duck-Typing -- Promise Trust -- Chain Flow
+	* Error Handling -- Promise Patterns -- Promise API Recap -- Promise Limitations
 * [Chapter 4: Generators](async%20%26%20performance/ch4.md)
-	* [Breaking Run-to-completion](async%20%26%20performance/ch4.md#breaking-run-to-completion) -- [Generator'ing Values](async%20%26%20performance/ch4.md#generatoring-values) -- [Iterating Generators Asynchronously](async%20%26%20performance/ch4.md#iterating-generators-asynchronously)
-	* [Generators + Promises](async%20%26%20performance/ch4.md#generators--promises) -- [Generator Delegation](async%20%26%20performance/ch4.md#generator-delegation) -- [Generator Concurrency](async%20%26%20performance/ch4.md#generator-concurrency) -- [Thunks](async%20%26%20performance/ch4.md#thunks) -- [Pre-ES6 Generators](async%20%26%20performance/ch4.md#pre-es6-generators)
+	* Breaking Run-to-completion -- Generator'ing Values -- Iterating Generators Asynchronously
+	* Generators + Promises -- Generator Delegation -- Generator Concurrency -- Thunks -- Pre-ES6 Generators
 * [Chapter 5: Program Performance](async%20%26%20performance/ch5.md)
 	* [Web Workers](async%20%26%20performance/ch5.md#web-workers)
 	* [SIMD](async%20%26%20performance/ch5.md#simd)
 	* [asm.js](async%20%26%20performance/ch5.md#asmjs)
 * [Chapter 6: Benchmarking & Tuning](async%20%26%20performance/ch6.md)
-	* [Benchmarking](async%20%26%20performance/ch6.md#benchmarking) -- [Context Is King](async%20%26%20performance/ch6.md#context-is-king) -- [jsPerf.com](async%20%26%20performance/ch6.md#jsperfcom)
-	* [Writing Good Tests](async%20%26%20performance/ch6.md#writing-good-tests) -- [Microperformance](async%20%26%20performance/ch6.md#microperformance) -- [Tail Call Optimization (TCO)](async%20%26%20performance/ch6.md#tail-call-optimization-tco)
+	* Benchmarking -- Context Is King -- jsPerf.com
+	* Writing Good Tests -- Microperformance -- Tail Call Optimization (TCO)
 * [Appendix A: *asynquence* Library](async%20%26%20performance/apA.md)
 * [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
 * [Appendix C: Acknowledgments](async%20%26%20performance/apC.md)
