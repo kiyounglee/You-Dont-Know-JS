@@ -183,7 +183,7 @@ So, in other words, your program is generally broken up into lots of small chunk
 
 ## Parallel Threading
 
-It's very common to conflate the terms "async" and "parallel," but they are actually quite different. Remember, async is about the gap between *now* and *later*. But parallel is about things being able to occur simultaneously.
+It's very common to conflate the terms "async" and "parallel," but they are actually quite different. Remember, [**async** is about the gap between *now* and *later*.]() But [**parallel** is about things being able to occur simultaneously.]()
 
 The most common tools for parallel computing are processes and threads. Processes and threads execute independently and may execute simultaneously: on separate processors, or even separate computers, but multiple threads can share the memory of a single process.
 
