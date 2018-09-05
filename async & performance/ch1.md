@@ -282,7 +282,7 @@ JavaScript never shares data across threads, which means *that* level of nondete
 
 ### Run-to-Completion
 
-Because of [**JavaScript's single-threading**](), the code inside of `foo()` (and `bar()`) is atomic, which means that once `foo()` starts running, the entirety of its code will finish before any of the code in `bar()` can run, or vice versa. This is called "run-to-completion" behavior.
+Because of [**JavaScript's single-threading**](), the code inside of `foo()` (and `bar()`) is atomic, which means that once `foo()` starts running, the entirety of its code will finish before any of the code in `bar()` can run, or vice versa. [This is called "run-to-completion" behavior.]()
 
 In fact, the run-to-completion semantics are more obvious when `foo()` and `bar()` have more code in them, such as:
 
