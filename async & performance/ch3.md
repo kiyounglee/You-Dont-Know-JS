@@ -1,9 +1,9 @@
 # You Don't Know JS: Async & Performance
 # Chapter 3: Promises
 
-In Chapter 2, we identified two major categories of deficiencies with using callbacks to express program asynchrony and manage concurrency: lack of sequentiality and lack of trustability. Now that we understand the problems more intimately, it's time we turn our attention to patterns that can address them.
+In Chapter 2, we identified two major categories of deficiencies with using callbacks to express program asynchrony and manage concurrency: [lack of sequentiality and lack of trustability](). Now that we understand the problems more intimately, it's time we turn our attention to patterns that can address them.
 
-The issue we want to address first is the *inversion of control*, the trust that is so fragilely held and so easily lost.
+The issue we want to address first is the [***inversion of control***](), the trust that is so fragilely held and so easily lost.
 
 Recall that we wrap up the *continuation* of our program in a callback function, and hand that callback over to another party (potentially even external code) and just cross our fingers that it will do the right thing with the invocation of the callback.
 
