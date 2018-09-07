@@ -119,7 +119,7 @@
 		* Future Value -- Completion Event
 	* Thenable Duck-Typing -- Promise Trust 
 	* Chain Flow
-		* Terminology: Resolve, Fulfill, and Reject
+		* [Terminology: Resolve, Fulfill, and Reject](async%20&%20performance/ch3.md#terminology-resolve-fulfill-and-reject)
 	* Error Handling -- Promise Patterns -- Promise API Recap -- Promise Limitations
 * [Chapter 4: Generators](async%20%26%20performance/ch4.md)
 	* Breaking Run-to-completion -- Generator'ing Values -- Iterating Generators Asynchronously
