@@ -116,8 +116,7 @@
 	* Continuations -- Sequential Brain -- Trust Issues -- Trying To Save Callbacks
 * [Chapter 3: Promises](async%20%26%20performance/ch3.md)
 	* What is a Promise?
-		* Future Value
-		* Completion Event
+		* Future Value -- Completion Event
 	* Thenable Duck-Typing -- Promise Trust -- Chain Flow -- Error Handling
 	* Promise Patterns -- Promise API Recap -- Promise Limitations
 * [Chapter 4: Generators](async%20%26%20performance/ch4.md)
