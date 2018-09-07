@@ -450,7 +450,7 @@ Primarily, this is a concern of whether code can introduce Zalgo-like effects (s
 
 Promises by definition cannot be susceptible to this concern, because even an immediately fulfilled Promise (like `new Promise(function(resolve){ resolve(42); })`) cannot be *observed* synchronously.
 
-That is, when you call `then(..)` on a Promise, even if that Promise was already resolved, the callback you provide to `then(..)` will **always** be called asynchronously (for more on this, refer back to "Jobs" in Chapter 1).
+That is, when you call `then(..)` on a Promise, even if that Promise was already resolved, [the callback you provide to `then(..)` will **always** be called asynchronously (for more on this, refer back to "Jobs" in Chapter 1).]()
 
 No more need to insert your own `setTimeout(..,0)` hacks. Promises prevent Zalgo automatically.
 
