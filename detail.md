@@ -121,7 +121,7 @@
 		* Calling Too Early -- Calling Too Late -- Never Calling the Callback -- Calling Too Few or Too Many Times
 		* Failing to Pass Along Any Parameters/Environment -- Swallowing Any Errors/Exceptions
 		* Trustable Promise? -- Trust Built
-	* Chain Flow : [Terminology: Resolve, Fulfill, and Reject](async%20&%20performance/ch3.md#terminology-resolve-fulfill-and-reject)
+	* [Chain Flow](async%20&%20performance/ch3.md#chain-flow) : [Terminology: Resolve, Fulfill, and Reject](async%20&%20performance/ch3.md#terminology-resolve-fulfill-and-reject)
 	* Error Handling 
 	* Promise Patterns 
 	* Promise API Recap 
