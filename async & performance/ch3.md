@@ -633,11 +633,11 @@ There's one last detail to examine to establish trust based on the Promise patte
 
 [You've no doubt noticed that Promises don't get rid of callbacks at all. They just change where the callback is passed to.]() Instead of passing a callback to `foo(..)`, we get *something* (ostensibly a genuine Promise) back from `foo(..)`, and we pass the callback to that *something* instead.
 
-But why would this be any more trustable than just callbacks alone? How can we be sure the *something* we get back is in fact a trustable Promise? Isn't it basically all just a house of cards where we can trust only because we already trusted?
+But why would this be any more trustable than just callbacks alone? [How can we be sure the *something* we get back is in fact a trustable Promise?]() Isn't it basically all just a house of cards where we can trust only because we already trusted?
 
-[One of the most important, but often overlooked, details of Promises is that they have a solution to this issue as well. Included with the native ES6 `Promise` implementation is `Promise.resolve(..)`.]()
+[One of the most important, but often overlooked, details of Promises is that they have a solution to this issue as well.]() Included with the native ES6 `Promise` implementation is `Promise.resolve(..)`.
 
-1)[If you pass an immediate, non-Promise, non-thenable value to `Promise.resolve(..)`](), you get a promise that's fulfilled with that value. In other words, these two promises `p1` and `p2` will behave basically identically:
+(1)[If you pass an immediate, non-Promise, non-thenable value to `Promise.resolve(..)`](), you get a promise that's fulfilled with that value. In other words, these two promises `p1` and `p2` will behave basically identically:
 
 ```js
 var p1 = new Promise( function(resolve,reject){
@@ -647,7 +647,7 @@ var p1 = new Promise( function(resolve,reject){
 var p2 = Promise.resolve( 42 );
 ```
 
-But 2)[if you pass a genuine Promise to `Promise.resolve(..)`](), you just get the same promise back:
+But (2)[if you pass a genuine Promise to `Promise.resolve(..)`](), you just get the same promise back:
 
 ```js
 var p1 = Promise.resolve( 42 );
@@ -657,7 +657,7 @@ var p2 = Promise.resolve( p1 );
 p1 === p2; // true
 ```
 
-Even more importantly, 3)[if you pass a non-Promise thenable value to `Promise.resolve(..)`](), it will attempt to unwrap that value, and the unwrapping will keep going until a concrete final non-Promise-like value is extracted.
+Even more importantly, (3)[if you pass a non-Promise thenable value to `Promise.resolve(..)`](), it will attempt to unwrap that value, and the unwrapping will keep going until a concrete final non-Promise-like value is extracted.
 
 Recall our previous discussion of thenables?
 
