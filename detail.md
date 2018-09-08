@@ -117,7 +117,10 @@
 * [Chapter 3: Promises](async%20%26%20performance/ch3.md)
 	* What is a Promise? : Future Value -- Completion Event
 	* Thenable Duck-Typing 
-	* [Promise Trust](async%20&%20performance/ch3.md#promise-trust) 
+	* [Promise Trust](async%20&%20performance/ch3.md#promise-trust)
+		* Calling Too Early -- Calling Too Late -- Never Calling the Callback -- Calling Too Few or Too Many Times
+		* Failing to Pass Along Any Parameters/Environment -- Swallowing Any Errors/Exceptions
+		* Trustable Promise? -- Trust Built
 	* Chain Flow : [Terminology: Resolve, Fulfill, and Reject](async%20&%20performance/ch3.md#terminology-resolve-fulfill-and-reject)
 	* Error Handling 
 	* Promise Patterns 
