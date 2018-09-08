@@ -870,7 +870,7 @@ Rather than inspecting for a relationship between `a1` and an object that holds 
 
 But "duck typing" is often extended to make **other assumptions about the object's capabilities** besides what's being tested, which of course introduces more risk (aka, brittle design) into the test.
 
-One notable example of "duck typing" comes with ES6 Promises (which as an earlier note explained are not being covered in this book).
+[One notable example of "duck typing" comes with ES6 Promises](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md#thenable-duck-typing) (which as an earlier note explained are not being covered in this book).
 
 For various reasons, there's a need to determine if any arbitrary object reference *is a Promise*, but the way that test is done is to check if the object happens to have a `then()` function present on it. In other words, **if any object** happens to have a `then()` method, ES6 Promises will assume unconditionally that the object **is a "thenable"** and therefore will expect it to behave conformantly to all standard behaviors of Promises.
 
