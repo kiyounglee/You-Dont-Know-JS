@@ -115,12 +115,14 @@
 * [Chapter 2: Callbacks](async%20%26%20performance/ch2.md)
 	* Continuations -- Sequential Brain -- Trust Issues -- Trying To Save Callbacks
 * [Chapter 3: Promises](async%20%26%20performance/ch3.md)
-	* What is a Promise?
-		* Future Value -- Completion Event
-	* Thenable Duck-Typing -- Promise Trust 
-	* Chain Flow
-		* [Terminology: Resolve, Fulfill, and Reject](async%20&%20performance/ch3.md#terminology-resolve-fulfill-and-reject)
-	* Error Handling -- Promise Patterns -- Promise API Recap -- Promise Limitations
+	* What is a Promise? : Future Value -- Completion Event
+	* Thenable Duck-Typing 
+	* [Promise Trust](async%20&%20performance/ch3.md#promise-trust) 
+	* Chain Flow : [Terminology: Resolve, Fulfill, and Reject](async%20&%20performance/ch3.md#terminology-resolve-fulfill-and-reject)
+	* Error Handling 
+	* Promise Patterns 
+	* Promise API Recap 
+	* Promise Limitations
 * [Chapter 4: Generators](async%20%26%20performance/ch4.md)
 	* Breaking Run-to-completion -- Generator'ing Values -- Iterating Generators Asynchronously
 	* Generators + Promises -- Generator Delegation -- Generator Concurrency -- Thunks -- Pre-ES6 Generators
