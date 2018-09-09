@@ -161,9 +161,9 @@
 * [Chapter 6: API Additions](es6%20&%20beyond/ch6.md)
 	* `Array` -- `Object` -- `Math` -- `Number` -- `String`
 * [Chapter 7: Meta Programming](es6%20&%20beyond/ch7.md)
-	* [Function Names](es6%20&%20beyond/ch7.md#function-names) -- [Meta Properties](es6%20&%20beyond/ch7.md#meta-properties) -- [Well Known Symbols](es6%20&%20beyond/ch7.md#well-known-symbols) -- [Proxies](es6%20&%20beyond/ch7.md#proxies)
-	* [`Reflect` API](es6%20&%20beyond/ch7.md#reflect-api) -- [Feature Testing](es6%20&%20beyond/ch7.md#feature-testing) -- [Tail Call Optimization (TCO)](es6%20&%20beyond/ch7.md#tail-call-optimization-tco)
+	* Function Names -- Meta Properties -- Well Known Symbols -- Proxies
+	* `Reflect` API -- Feature Testing -- Tail Call Optimization (TCO)
 * [Chapter 8: Beyond ES6](es6%20&%20beyond/ch8.md)
-	* [`async function`s](es6%20&%20beyond/ch8.md#async-functions) -- [`Object.observe(..)`](es6%20&%20beyond/ch8.md#objectobserve) -- [Exponentiation Operator](es6%20&%20beyond/ch8.md#exponentiation-operator) -- [Object Properties and `...`](es6%20&%20beyond/ch8.md#objects-properties-and-)
-	* [`Array#includes(..)`](es6%20&%20beyond/ch8.md#arrayincludes) -- [SIMD](es6%20&%20beyond/ch8.md#simd) -- [WebAssembly (WASM)](es6%20&%20beyond/ch8.md#webassembly-wasm)
+	* `async function`s -- `Object.observe(..)` -- Exponentiation Operator -- Object Properties and `...`
+	* `Array#includes(..)` -- SIMD -- WebAssembly (WASM)
 * [Appendix A: Acknowledgments](es6%20&%20beyond/apA.md)
