@@ -92,12 +92,9 @@
 		* `Date(..)` and `Error(..)`
 		* `Symbol(..)`
 * [Chapter 4: Coercion](types%20%26%20grammar/ch4.md) ---- [Review](types%20%26%20grammar/ch4.md#review)
-	* Converting Values
-	* Abstract Value Operations
-	* Explicit Coercion
-	* Implicit Coercion
-	* Loose Equals vs Strict Equals
-	* Abstract Relational Comparison
+	* Converting Values -- Abstract Value Operations
+	* Explicit Coercion -- Implicit Coercion
+	* Loose Equals vs Strict Equals -- Abstract Relational Comparison
 * [Chapter 5: Grammar](types%20%26%20grammar/ch5.md) ---- [Review](types%20%26%20grammar/ch5.md#review)
 	* Statements & Expressions
 	* Operator Precedence
