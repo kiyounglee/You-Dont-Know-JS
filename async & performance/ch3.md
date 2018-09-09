@@ -657,7 +657,7 @@ var p2 = Promise.resolve( p1 );
 p1 === p2; // true
 ```
 
-Even more importantly, ***(3)if you pass a non-Promise thenable value to `Promise.resolve(..)`,*** it will attempt to unwrap that value, and the unwrapping will keep going until a concrete final non-Promise-like value is extracted.
+Even more importantly, ***(3)if you pass a non-Promise thenable value to `Promise.resolve(..)`,*** [it will attempt to unwrap that value, and the unwrapping will keep going until a concrete final non-Promise-like value is extracted.]()
 
 Recall our previous discussion of thenables?
 
