@@ -109,7 +109,7 @@ In that snippet, we treated `x` and `y` as future values, and we express an oper
 
 By using an `add(..)` that is temporally consistent -- it behaves the same across *now* and *later* times -- the async code is much easier to reason about.
 
-To put it more plainly: to consistently handle both *now* and *later*, we make both of them *later*: all operations become async.
+To put it more plainly: **to consistently handle both *now* and *later*, we make both of them *later*: all operations become async.**
 
 Of course, this rough callbacks-based approach leaves much to be desired. It's just a first tiny step toward realizing the benefits of reasoning about *future values* without worrying about the time aspect of when it's available or not.
 
