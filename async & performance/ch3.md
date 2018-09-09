@@ -260,7 +260,7 @@ bar( evt );
 baz( evt );
 ```
 
-*Uninversion of control* enables a nicer *separation of concerns*, where `bar(..)` and `baz(..)` don't need to be involved in how `foo(..)` is called. Similarly, `foo(..)` doesn't need to know or care that `bar(..)` and `baz(..)` exist or are waiting to be notified when `foo(..)` completes.
+*Uninversion of control* enables a nicer ***separation of concerns***, where `bar(..)` and `baz(..)` don't need to be involved in how `foo(..)` is called. Similarly, `foo(..)` doesn't need to know or care that `bar(..)` and `baz(..)` exist or are waiting to be notified when `foo(..)` completes.
 
 Essentially, this `evt` object is a neutral third-party negotiation between the separate concerns.
 
