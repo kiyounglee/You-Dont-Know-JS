@@ -112,7 +112,7 @@
 * [Chapter 2: Callbacks](async%20%26%20performance/ch2.md)
 	* Continuations -- Sequential Brain -- Trust Issues -- Trying To Save Callbacks
 * [Chapter 3: Promises](async%20%26%20performance/ch3.md)
-	* What is a Promise? : Future Value -- Completion Event
+	* [What is a Promise?](async%20%26%20performance/ch3.md#what-is-a-promise) : Future Value -- Completion Event
 	* [Thenable Duck-Typing](async%20&%20performance/ch3.md#thenable-duck-typing) 
 	* [Promise Trust](async%20&%20performance/ch3.md#promise-trust)
 		* Calling Too Early -- Calling Too Late -- Never Calling the Callback -- Calling Too Few or Too Many Times
