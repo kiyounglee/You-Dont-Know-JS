@@ -117,7 +117,8 @@
 		* Failing to Pass Along Any Parameters/Environment -- Swallowing Any Errors/Exceptions
 		* [Trustable Promise?](async%20&%20performance/ch3.md#trustable-promise) -- Trust Built
 	* [Chain Flow](async%20&%20performance/ch3.md#chain-flow) : Terminology: Resolve, Fulfill, and Reject -- [Error Handling](async%20&%20performance/ch3.md#error-handling) 
-	* [Promise Patterns](async%20&%20performance/ch3.md#promise-patterns) -- [Promise API Recap](async%20&%20performance/ch3.md#promise-api-recap) -- [Promise Limitations](async%20&%20performance/ch3.md#promise-limitations) 
+	* [Promise Patterns](async%20&%20performance/ch3.md#promise-patterns) -- [Promise API Recap](async%20&%20performance/ch3.md#promise-api-recap)
+	* [Promise Limitations](async%20&%20performance/ch3.md#promise-limitations) 
 * [Chapter 4: Generators ← **Sequentiality**](async%20%26%20performance/ch4.md)
 	* Breaking Run-to-completion -- Generator'ing Values -- Iterating Generators Asynchronously
 	* Generators + Promises -- Generator Delegation -- Generator Concurrency -- Thunks -- Pre-ES6 Generators
