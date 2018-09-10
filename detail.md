@@ -67,9 +67,7 @@
 	* "Class" -- "(Prototypal) Inheritance" -- Object Links
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md) ---- [Review](this%20%26%20object%20prototypes/ch6.md#review-tldr)
 	* Towards Delegation-Oriented Design
-		* Class Theory
-		* Delegation Theory
-		* Mental Models Compared
+		* Class Theory -- Delegation Theory -- Mental Models Compared
 	* Classes vs. Objects
 	* Simpler Design
 	* Nicer Syntax
