@@ -1315,7 +1315,7 @@ Two such patterns are codified directly into the native ES6 `Promise` implementa
 
 In an async sequence (Promise chain), only one async task is being coordinated at any given moment -- step 2 strictly follows step 1, and step 3 strictly follows step 2. But what about doing two or more steps concurrently (aka "in parallel")?
 
-In classic programming terminology, a "gate" is a mechanism that waits on two or more parallel/concurrent tasks to complete before continuing. It doesn't matter what order they finish in, just that all of them have to complete for the gate to open and let the flow control through.
+In classic programming terminology, a **"gate" is a mechanism that waits on two or more parallel/concurrent tasks to complete before continuing.** It doesn't matter what order they finish in, just that all of them have to complete for the gate to open and let the flow control through.
 
 In the Promise API, we call this pattern `all([ .. ])`.
 
