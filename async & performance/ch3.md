@@ -1151,7 +1151,7 @@ The callback we pass to `foo(..)` expects to receive a signal of an error by the
 
 This sort of error handling is technically *async capable*, but it doesn't compose well at all. Multiple levels of error-first callbacks woven together with these ubiquitous `if` statement checks inevitably will lead you to the perils of callback hell (see Chapter 2).
 
-So we come back to error handling in Promises, with the rejection handler passed to `then(..)`. Promises don't use the popular "error-first callback" design style, but instead use "split callbacks" style; there's one callback for fulfillment and one for rejection:
+So we come back to error handling in Promises, with the rejection handler passed to `then(..)`. Promises don't use the popular **"error-first callback"** design style, but instead use **"split callbacks"** style; there's one callback for fulfillment and one for rejection:
 
 ```js
 var p = Promise.reject( "Oops" );
