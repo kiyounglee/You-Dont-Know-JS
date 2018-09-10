@@ -974,7 +974,7 @@ var p2 = p.then(
 
 As you can see, the assumed rejection handler simply rethrows the error, which ends up forcing `p2` (the chained promise) to reject with the same error reason. In essence, this allows the error to continue propagating along a Promise chain until an explicitly defined rejection handler is encountered.
 
-**Note:** We'll cover more details of error handling with Promises a little later, because there are other nuanced details to be concerned about.
+**Note:** We'll cover more details of [error handling](#error-handling) with Promises a little later, because there are other nuanced details to be concerned about.
 
 If a proper valid function is not passed as the fulfillment handler parameter to `then(..)`, there's also a default handler substituted:
 
