@@ -548,7 +548,7 @@ Promise.race( [
 );
 ```
 
-There are more details to consider with this Promise timeout pattern, but we'll come back to it later.
+There are more details to consider with this [Promise timeout pattern](#timeout-race), but we'll come back to it later.
 
 Importantly, we can ensure a signal as to the outcome of `foo()`, to prevent it from hanging our program indefinitely.
 
