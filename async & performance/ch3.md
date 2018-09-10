@@ -1353,7 +1353,7 @@ Remember to always attach a rejection/error handler to every promise, even and e
 
 While `Promise.all([ .. ])` coordinates multiple Promises concurrently and assumes all are needed for fulfillment, sometimes you only want to respond to the "first Promise to cross the finish line," letting the other Promises fall away.
 
-This pattern is classically called a "latch," but in Promises it's called a "race."
+**This pattern is classically called a "latch," but in Promises it's called a "race."**
 
 **Warning:** While the metaphor of "only the first across the finish line wins" fits the behavior well, unfortunately "race" is kind of a loaded term, because "race conditions" are generally taken as bugs in programs (see Chapter 1). Don't confuse `Promise.race([ .. ])` with "race condition."
 
