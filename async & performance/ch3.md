@@ -847,7 +847,7 @@ p.then( function(v){
 
 That's incredibly powerful! Now we can construct a sequence of however many async steps we want, and each step can delay the next step (or not!), as necessary.
 
-Of course, the value passing from step to step in these examples is optional. If you don't return an explicit value, an implicit `undefined` is assumed, and the promises still chain together the same way. Each Promise resolution is thus just a signal to proceed to the next step.
+Of course, the value passing from step to step in these examples is optional. [If you don't return an explicit value, **an implicit `undefined` is assumed,** and the promises still chain together the same way.]() Each Promise resolution is thus just a signal to proceed to the next step.
 
 To further the chain illustration, let's generalize a delay-Promise creation (without resolution messages) into a utility we can reuse for multiple steps:
 
