@@ -109,7 +109,7 @@
 	* Concurrency -- Jobs -- Statement Ordering
 * [Chapter 2: Callbacks](async%20%26%20performance/ch2.md)
 	* Continuations -- Sequential Brain -- Trust Issues -- Trying To Save Callbacks
-* [Chapter 3: Promises ← **Trustability**](async%20%26%20performance/ch3.md)
+* [Chapter 3: Promises(← **Trustability**)](async%20%26%20performance/ch3.md)
 	* [What is a Promise?](async%20%26%20performance/ch3.md#what-is-a-promise) : Future Value -- Completion Event
 	* [Thenable Duck-Typing](async%20&%20performance/ch3.md#thenable-duck-typing) 
 	* [Promise Trust](async%20&%20performance/ch3.md#promise-trust)
@@ -119,7 +119,7 @@
 	* [Chain Flow](async%20&%20performance/ch3.md#chain-flow) : Terminology: Resolve, Fulfill, and Reject -- [Error Handling](async%20&%20performance/ch3.md#error-handling) 
 	* [Promise Patterns](async%20&%20performance/ch3.md#promise-patterns) -- [Promise API Recap](async%20&%20performance/ch3.md#promise-api-recap)
 	* [Promise Limitations](async%20&%20performance/ch3.md#promise-limitations) 
-* [Chapter 4: Generators ← **Sequentiality**](async%20%26%20performance/ch4.md)
+* [Chapter 4: Generators(← **Sequentiality**)](async%20%26%20performance/ch4.md)
 	* [Breaking Run-to-completion](async%20&%20performance/ch4.md#breaking-run-to-completion)
 		* Input and Output -- Multiple Iterators
 	* [Generator'ing Values](async%20&%20performance/ch4.md#generatoring-values)
