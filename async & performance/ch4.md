@@ -2238,7 +2238,7 @@ Once you get hooked on generators, you'll never want to go back to the hell of a
 
 Generators are a new ES6 function type that does not run-to-completion like normal functions. Instead, the generator can be paused in mid-completion (entirely preserving its state), and it can later be resumed from where it left off.
 
-This pause/resume interchange is cooperative rather than preemptive, which means that the generator has the sole capability to pause itself, using the `yield` keyword, and yet the *iterator* that controls the generator has the sole capability (via `next(..)`) to resume the generator.
+This pause/resume interchange is cooperative rather than preemptive, which means that [the ***generator*** has the sole capability to pause itself, using the `yield` keyword, and yet the ***iterator*** that controls the generator has the sole capability (via `next(..)`) to resume the generator.]()
 
 The `yield` / `next(..)` duality is not just a control mechanism, it's actually a two-way message passing mechanism. A `yield ..` expression essentially pauses waiting for a value, and the next `next(..)` call passes a value (or implicit `undefined`) back to that paused `yield` expression.
 
