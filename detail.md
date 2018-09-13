@@ -120,14 +120,16 @@
 	* [Promise Patterns](async%20&%20performance/ch3.md#promise-patterns) -- [Promise API Recap](async%20&%20performance/ch3.md#promise-api-recap)
 	* [Promise Limitations](async%20&%20performance/ch3.md#promise-limitations) 
 * [Chapter 4: Generators ← **Sequentiality**](async%20%26%20performance/ch4.md)
-	* Breaking Run-to-completion
-	* Generator'ing Values
-	* Iterating Generators Asynchronously
-	* Generators + Promises
-	* Generator Delegation
-	* Generator Concurrency 
-	* Thunks
-	* Pre-ES6 Generators
+	* [Breaking Run-to-completion](async%20&%20performance/ch4.md#breaking-run-to-completion)
+		* Input and Output -- Multiple Iterators
+	* [Generator'ing Values](async%20&%20performance/ch4.md#generatoring-values)
+		* Producers and Iterators -- Iterables -- Generator Iterator
+	* [Iterating Generators Asynchronously](async%20&%20performance/ch4.md#iterating-generators-asynchronously)
+	* [Generators + Promises](async%20&%20performance/ch4.md#generators--promises)
+	* [Generator Delegation](async%20&%20performance/ch4.md#generator-delegation)
+	* [Generator Concurrency](async%20&%20performance/ch4.md#generator-concurrency) 
+	* [Thunks](async%20&%20performance/ch4.md#thunks)
+	* [Pre-ES6 Generators](async%20&%20performance/ch4.md#pre-es6-generators)
 * [Chapter 5: Program Performance](async%20%26%20performance/ch5.md)
 	* [Web Workers](async%20%26%20performance/ch5.md#web-workers)
 	* [SIMD](async%20%26%20performance/ch5.md#simd)
