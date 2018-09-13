@@ -76,7 +76,7 @@ it.next();				// x: 3
 
 OK, there's quite a bit of new and potentially confusing stuff in those two code snippets, so we've got plenty to wade through. But before we explain the different mechanics/syntax with ES6 generators, let's walk through the behavior flow:
 
-1. The `it = foo()` operation does *not* execute the `*foo()` generator yet, but it merely constructs an *iterator* that will control its execution. More on *iterators* in a bit.
+1. The `it = foo()` operation does *not* execute the `*foo()` generator yet, [but it merely constructs an ***iterator*** that will control its execution. More on *iterators* in a bit.]()
 2. The first `it.next()` starts the `*foo()` generator, and runs the `x++` on the first line of `*foo()`.
 3. `*foo()` pauses at the `yield` statement, at which point that first `it.next()` call finishes. At the moment, `*foo()` is still running and active, but it's in a paused state.
 4. We inspect the value of `x`, and it's now `2`.
