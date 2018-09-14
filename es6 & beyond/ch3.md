@@ -545,7 +545,7 @@ function *foo() {
 
 `yield` is not technically an operator, though when used like `yield 1` it sure looks like it. Because `yield` can be used all by itself as in `var x = yield;`, thinking of it as an operator can sometimes be confusing.
 
-Technically, `yield ..` is of the same "expression precedence" -- similar conceptually to operator precedence -- as an assignment expression like `a = 3`. That means `yield ..` can basically appear anywhere `a = 3` can validly appear.
+Technically, [`yield ..` is of the same **"expression precedence"** -- similar conceptually to operator precedence -- as an assignment expression like `a = 3`.]() That means `yield ..` can basically appear anywhere `a = 3` can validly appear.
 
 Let's illustrate the symmetry:
 
