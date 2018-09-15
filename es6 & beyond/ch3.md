@@ -786,7 +786,7 @@ it.next( "baz" );		// "foo" "bar" "baz"
 
 You can think of a generator as a producer of values, in which case each iteration is simply producing a value to be consumed.
 
-But in a more general sense, perhaps it's appropriate to think of generators as controlled, progressive code execution, much like the `tasks` queue example from the earlier "Custom Iterators" section.
+But in a more general sense, perhaps it's appropriate to think of generators as controlled, progressive code execution, much like the `tasks` queue example from the earlier ["Custom Iterators" section](#custom-iterators).
 
 **Note:** That perspective is exactly the motivation for how we'll revisit generators in Chapter 4. Specifically, there's no reason that `next(..)` has to be called right away after the previous `next(..)` finishes. While the generator's inner execution context is paused, the rest of the program continues unblocked, including the ability for asynchronous actions to control when the generator is resumed.
 
