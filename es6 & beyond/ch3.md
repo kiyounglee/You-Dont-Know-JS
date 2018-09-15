@@ -477,7 +477,7 @@ function *foo(x,y) {
 foo( 5, 10 );
 ```
 
-The major difference is that executing a generator, like `foo(5,10)` doesn't actually run the code in the generator. Instead, it produces an iterator that will control the generator to execute its code.
+[The major difference is that executing a generator, like `foo(5,10)` doesn't actually run the code in the generator. **Instead, it produces an iterator that will control the generator to execute its code.**]()
 
 We'll come back to this later in "Iterator Control," but briefly:
 
