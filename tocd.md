@@ -1,6 +1,7 @@
 ### You Dont Konw JS -- [*Functional Light Javascript*](https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md) -- [*JavaScript Allongé*](https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md)
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
-## [Up & Going](toc.md#up--going---mar-31201588p) - - *Mar 31,2015(88p) - [Foreword](up%20%26%20going/forword.md)*
+## [Up & Going](toc.md#up--going---mar-31201588p)
+*[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 	* Code -- Try It Yourself -- Operators -- Values & Types -- Code Comments -- Variables
 	* Blocks -- Conditionals -- Loops -- Functions -- Practice
