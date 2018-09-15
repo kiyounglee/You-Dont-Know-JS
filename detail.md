@@ -1,4 +1,4 @@
-# [You Dont Konw JS - *Detail*](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md#you-dont-konw-js)
+# [You Dont Konw JS - *Detail*](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/README2.md)
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
 ### [Up & Going](README2.md#up--going---mar-31201588p) - - *Mar 31,2015(88p) - [Foreword](up%20%26%20going/forword.md)*
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
