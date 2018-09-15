@@ -1,10 +1,10 @@
-# [You Dont Konw JS - *Outlined*](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/tocd.md#you-dont-konw-js---detail) 
+### [You Dont Konw JS - *Outlined*](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/tocd.md#you-dont-konw-js---detail) 
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
-### [Up & Going](tocd.md#up--going-----mar-31201588p---foreword) - *Mar 31,2015(88p)*  
+## [Up & Going](tocd.md#up--going-----mar-31201588p---foreword) - *Mar 31,2015(88p)*  
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 * [Chapter 2: Into JavaScript](up%20%26%20going/ch2.md)
 * [Chapter 3: Into YDKJS](up%20%26%20going/ch3.md)
-### [Scope & Closures](tocd.md#scope--closures-----mar-24201498p---foreword) - *Mar 24,2014(98p)*   
+## [Scope & Closures](tocd.md#scope--closures-----mar-24201498p---foreword) - *Mar 24,2014(98p)*   
 * [Chapter 1: What is Scope?](scope%20%26%20closures/ch1.md)
 * [Chapter 2: Lexical Scope](scope%20%26%20closures/ch2.md)
 * [Chapter 3: Function vs. Block Scope](scope%20%26%20closures/ch3.md)
@@ -13,7 +13,7 @@
 * [Appendix A: Dynamic Scope](scope%20%26%20closures/apA.md)
 * [Appendix B: Polyfilling Block Scope](scope%20%26%20closures/apB.md)
 * [Appendix C: Lexical-this](scope%20%26%20closures/apC.md)
-### [*this* & Object Prototypes](tocd.md#this--object-prototypes-----jul-272014174p---foreword) - *Jul 27,2014(174p)*  
+## [*this* & Object Prototypes](tocd.md#this--object-prototypes-----jul-272014174p---foreword) - *Jul 27,2014(174p)*  
 * [Chapter 1: *this* Or That?](this%20%26%20object%20prototypes/ch1.md)
 * [Chapter 2: *this* All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md)
 * [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
@@ -25,7 +25,7 @@
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md)
 * [Appendix A: ES6 *class*](this%20%26%20object%20prototypes/apA.md)
-### [Types & Grammar](tocd.md#types--grammar-----feb-42015198p---foreword) - *Feb 4,2015(198p)*
+## [Types & Grammar](tocd.md#types--grammar-----feb-42015198p---foreword) - *Feb 4,2015(198p)*
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md)
 * [Chapter 2: Values](types%20%26%20grammar/ch2.md)
 	* Arrays -- Strings -- Numbers -- Special Values -- Value vs Reference
@@ -35,7 +35,7 @@
 	* Statements & Expressions -- Operator Precedence -- Automatic Semicolons
 	* Errors -- Function Arguments -- `try..finally` -- `switch`
 * [Appendix A: Mixed Environment JavaScript](types%20%26%20grammar/apA.md)
-### [Async & Performance](tocd.md#async--performance-----feb-272015296p---foreword) - *Feb 27,2015(296p)*
+## [Async & Performance](tocd.md#async--performance-----feb-272015296p---foreword) - *Feb 27,2015(296p)*
 * [Chapter 1: Asynchrony: Now & Later](async%20%26%20performance/ch1.md)
 * [Chapter 2: Callbacks](async%20%26%20performance/ch2.md)
 * [Chapter 3: Promises](async%20%26%20performance/ch3.md)
@@ -44,7 +44,7 @@
 * [Chapter 6: Benchmarking & Tuning](async%20%26%20performance/ch6.md)
 * [Appendix A: Library: asynquence](async%20%26%20performance/apA.md)
 * [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
-### [ES6 & Beyond](tocd.md#es6--beyond-----dec-272015278p---foreword) - *Dec 27,2015(278p)*
+## [ES6 & Beyond](tocd.md#es6--beyond-----dec-272015278p---foreword) - *Dec 27,2015(278p)*
 * [Chapter 1: ES? Now & Future](es6%20%26%20beyond/ch1.md)   
 	* Versioning -- Transpiling   
 * [Chapter 2: Syntax](es6%20%26%20beyond/ch2.md)
