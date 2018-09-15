@@ -1,4 +1,4 @@
-### You Dont Konw JS[*-detailed*](toc.md#you-dont-konw-js---detail) --- [*Functional Javascript*](https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md) --- [*JavaScript Allongé*](https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md)
+### You Dont Konw JS[*-Detailed*](toc.md#you-dont-konw-js---detail) --- [*Functional Javascript*](https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md) --- [*JavaScript Allongé*](https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md)
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
 ## [Up & Going](toc.md#up--going---mar-31201588p) - - *Mar 31,2015(88p) - [Foreword](up%20%26%20going/forword.md)*
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
