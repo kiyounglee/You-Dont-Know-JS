@@ -1,6 +1,6 @@
 ### You Dont Konw JS -- [*Functional Light Javascript*](https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md) -- [*JavaScript Allongé*](https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md)
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
-## [Up & Going](toc.md#up--going---mar-31201588p)
+## [Up & Going](toc.md#up--going---mar-31201588p) *(detailed)*
 *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 	* Code -- Try It Yourself -- Operators -- Values & Types -- Code Comments -- Variables
@@ -15,7 +15,7 @@
 	* Async & Performance
 	* ES6 & Beyond
 * [Appendix A: Acknowledgments](up%20%26%20going/apA.md)
-## [Scope & Closures](toc.md#scope--closures---mar-24201498p)
+## [Scope & Closures](toc.md#scope--closures---mar-24201498p) *(detailed)*
 *[Foreword](up%20%26%20going/forword.md) - Mar 24,2014(98p)*
 * [Chapter 1: What is Scope?](up%20%26%20going/ch1.md) ---- [Review](up%20%26%20going/ch1.md#review-tldr)
 	* Compiler Theory
@@ -46,7 +46,7 @@
 * [Appendix B: Polyfilling Block Scope](up%20%26%20going/apB.md)
 * [Appendix C: Lexical-this](up%20%26%20going/apC.md)
 * [Appendix D: Acknowledgments](up%20%26%20going/apD.md)
-## [*this* & Object Prototypes](toc.md#this--object-prototypes---jul-272014174p)
+## [*this* & Object Prototypes](toc.md#this--object-prototypes---jul-272014174p) *(detailed)*
 *[Foreword](this%20%26%20object%20prototypes/forword.md) - Jul 27,2014(174p)*
 * [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md) ---- [Review](this%20%26%20object%20prototypes/ch1.md#review-tldr)
 	* Why `this`? --- Confusions --- What's `this`?
@@ -77,7 +77,7 @@
 	* Introspection
 * [Appendix A: ES6 `class`](this%20%26%20object%20prototypes/apA.md) ---- [Review](this%20%26%20object%20prototypes/apA.md#review-tldr)
 * [Appendix B: Acknowledgments](this%20%26%20object%20prototypes/apB.md)
-## [Types & Grammar](toc.md#types--grammar---feb-42015198p)
+## [Types & Grammar](toc.md#types--grammar---feb-42015198p) *(detailed)*
 *[Foreword](types%20%26%20grammar/forword.md) - Feb 4,2015(198p)*
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md) ---- [Review](types%20%26%20grammar/ch1.md#review)
 	* A Type By Any Other Name... --- Built-in Types --- Values as Types
@@ -107,7 +107,7 @@
 	* `switch`
 * [Appendix A: Mixed Environment JavaScript](types%20%26%20grammar/apA.md)
 * [Appendix B: Acknowledgments](types%20%26%20grammar/apB.md)
-## [Async & Performance](toc.md#async--performance---feb-272015296p)
+## [Async & Performance](toc.md#async--performance---feb-272015296p) *(detailed)*
 *[Foreword](async%20%26%20performance/forword.md) - Feb 27,2015(296p)*
 * [Chapter 1: Asynchrony: Now & Later](async%20%26%20performance/ch1.md)
 	* A Program In Chunks -- Event Loop -- Parallel Threading
@@ -145,7 +145,7 @@
 * [Appendix A: *asynquence* Library](async%20%26%20performance/apA.md)
 * [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
 * [Appendix C: Acknowledgments](async%20%26%20performance/apC.md)
-## [ES6 & Beyond](toc.md#es6--beyond---dec-272015278p)
+## [ES6 & Beyond](toc.md#es6--beyond---dec-272015278p) *(detailed)*
 *[Foreword](es6%20&%20beyond/forword.md) - Dec 27,2015(278p)*
 * [Chapter 1: ES? Now & Future](es6%20&%20beyond/ch1.md)   
 	* Versioning -- Transpiling   
