@@ -1,4 +1,4 @@
-# [You Dont Konw JS - *Outline*](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/tocd.md#you-dont-konw-js---detail) 
+# [You Dont Konw JS - *Outlined*](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/tocd.md#you-dont-konw-js---detail) 
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
 ### [Up & Going](tocd.md#up--going-----mar-31201588p---foreword) - *Mar 31,2015(88p)*  
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
