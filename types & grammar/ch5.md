@@ -31,7 +31,7 @@ The third line contains just the expression `b`, but it's also a statement all b
 
 ### Statement Completion Values
 
-It's a fairly little known fact that statements all have completion values (even if that value is just `undefined`).
+It's a fairly little known fact that **statements all have completion values** (even if that value is just `undefined`).
 
 How would you even go about seeing the completion value of a statement?
 
