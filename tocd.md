@@ -83,7 +83,7 @@
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md) ---- [Review](types%20%26%20grammar/ch1.md#review)
 	* A Type By Any Other Name... --- Built-in Types --- Values as Types
 * [Chapter 2: Values](types%20%26%20grammar/ch2.md) ---- [Review](types%20%26%20grammar/ch2.md#review)
-	* Arrays --- Strings --- Numbers -- Special Values --- Value vs Reference
+	* Arrays --- Strings --- Numbers --- Special Values --- Value vs Reference
 * [Chapter 3: Natives](types%20%26%20grammar/ch3.md) ---- [Review](types%20%26%20grammar/ch3.md#review)
 	* Internal `[[Class]]`
 	* Boxing Wrappers
