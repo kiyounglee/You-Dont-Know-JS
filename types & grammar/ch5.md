@@ -15,7 +15,7 @@ A "sentence" is one complete formation of words that expresses a thought. It's c
 
 And so it goes with JavaScript grammar. Statements are sentences, expressions are phrases, and operators are conjunctions/punctuation.
 
-Every expression in JS can be evaluated down to a single, specific value result. For example:
+[Every **expression** in JS can *be evaluated* down to a single, specific **value** result.]() For example:
 
 ```js
 var a = 3 * 6;
