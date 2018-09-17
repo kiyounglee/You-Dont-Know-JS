@@ -53,12 +53,12 @@
 * [Appendix D: Acknowledgments](up%20%26%20going/apD.md)
 ## [*this* & Object Prototypes](toc.md#this--object-prototypes---jul-272014174p) *(detailed)*
 *[Foreword](this%20%26%20object%20prototypes/forword.md) - Jul 27,2014(174p)*
-* [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md) ---- [Review](this%20%26%20object%20prototypes/ch1.md#review-tldr)
-	* Why `this`? --- Confusions --- What's `this`?
-* [Chapter 2: `this` All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md) ---- [Review](this%20%26%20object%20prototypes/ch2.md#review-tldr)
+* [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md)
+	* Why `this`? --- Confusions --- What's `this`? ---- [Review](this%20%26%20object%20prototypes/ch1.md#review-tldr)
+* [Chapter 2: `this` All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md)
 	* Call-site --- Nothing But Rules(`this` binding)
-	* Everything In Order --- Binding Exceptions --- Lexical `this`
-* [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md) ---- [Review](this%20%26%20object%20prototypes/ch3.md#review-tldr)
+	* Everything In Order --- Binding Exceptions --- Lexical `this` ---- [Review](this%20%26%20object%20prototypes/ch2.md#review-tldr)
+* [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
 	* Syntax
 	* Type
 	* Contents
@@ -66,8 +66,9 @@
 		* Duplicating Objects / Property Descriptors / Immutability
 		* `[[Get]]` / `[[Put]]` / Getters & Setters / Existence
 	* Iteration
-* [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md) ---- [Review](this%20%26%20object%20prototypes/ch4.md#review-tldr)
-	* Class Theory --- Class Mechanics --- Class Inheritance -- Mixins
+	* [Review](this%20%26%20object%20prototypes/ch3.md#review-tldr)
+* [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md)
+	* Class Theory --- Class Mechanics --- Class Inheritance -- Mixins ---- [Review](this%20%26%20object%20prototypes/ch4.md#review-tldr)
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
 	* `[[Prototype]]`
 		* `Object.prototype`
