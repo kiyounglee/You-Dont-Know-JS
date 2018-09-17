@@ -80,11 +80,11 @@
 * [Appendix B: Acknowledgments](this%20%26%20object%20prototypes/apB.md)
 ## [Types & Grammar](toc.md#types--grammar---feb-42015198p) *(detailed)*
 *[Foreword](types%20%26%20grammar/forword.md) - Feb 4,2015(198p)*
-* [Chapter 1: Types](types%20%26%20grammar/ch1.md) ---- [Review](types%20%26%20grammar/ch1.md#review)
-	* A Type By Any Other Name... --- Built-in Types --- Values as Types
-* [Chapter 2: Values](types%20%26%20grammar/ch2.md) ---- [Review](types%20%26%20grammar/ch2.md#review)
-	* Arrays --- Strings --- Numbers --- Special Values --- Value vs Reference
-* [Chapter 3: Natives](types%20%26%20grammar/ch3.md) ---- [Review](types%20%26%20grammar/ch3.md#review)
+* [Chapter 1: Types](types%20%26%20grammar/ch1.md)
+	* A Type By Any Other Name... --- Built-in Types --- Values as Types ---- [Review](types%20%26%20grammar/ch1.md#review)
+* [Chapter 2: Values](types%20%26%20grammar/ch2.md)
+	* Arrays --- Strings --- Numbers --- Special Values --- Value vs Reference ---- [Review](types%20%26%20grammar/ch2.md#review)
+* [Chapter 3: Natives](types%20%26%20grammar/ch3.md)
 	* Internal `[[Class]]`
 	* Boxing Wrappers
 	* Unboxing
@@ -93,19 +93,17 @@
 		* `Object(..)`, `Function(..)`, and `RegExp(..)`
 		* `Date(..)` and `Error(..)`
 		* `Symbol(..)`
-* [Chapter 4: Coercion](types%20%26%20grammar/ch4.md) ---- [Review](types%20%26%20grammar/ch4.md#review)
-	* Converting Values -- Abstract Value Operations
-	* Explicit Coercion -- Implicit Coercion
-	* Loose Equals vs Strict Equals -- Abstract Relational Comparison
-* [Chapter 5: Grammar](types%20%26%20grammar/ch5.md) ---- [Review](types%20%26%20grammar/ch5.md#review)
+	* [Review](types%20%26%20grammar/ch3.md#review)
+* [Chapter 4: Coercion](types%20%26%20grammar/ch4.md)
+	* Converting Values -- Abstract Value Operations --- Explicit Coercion -- Implicit Coercion
+	* Loose Equals vs Strict Equals -- Abstract Relational Comparison ---- [Review](types%20%26%20grammar/ch4.md#review) 
+* [Chapter 5: Grammar](types%20%26%20grammar/ch5.md)
 	* [Statements & Expressions](types%20%26%20grammar/ch5.md#statements--expressions)
 		* Statement Completion Values -- Expression Side Effects -- Contextual Rules
 	* Operator Precedence
 	* [Automatic Semicolons(ASI)](types%20%26%20grammar/ch5.md#automatic-semicolons)
-	* Errors
-	* Function Arguments
-	* `try..finally`
-	* `switch`
+	* Errors --- Function Arguments
+	* `try..finally` --- `switch` ---- [Review](types%20%26%20grammar/ch5.md#review)
 * [Appendix A: Mixed Environment JavaScript](types%20%26%20grammar/apA.md)
 * [Appendix B: Acknowledgments](types%20%26%20grammar/apB.md)
 ## [Async & Performance](toc.md#async--performance---feb-272015296p) *(detailed)*
