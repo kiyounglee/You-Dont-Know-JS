@@ -98,7 +98,7 @@
 	* Explicit Coercion -- Implicit Coercion
 	* Loose Equals vs Strict Equals -- Abstract Relational Comparison
 * [Chapter 5: Grammar](types%20%26%20grammar/ch5.md) ---- [Review](types%20%26%20grammar/ch5.md#review)
-	* Statements & Expressions
+	* [Statements & Expressions](types%20%26%20grammar/ch5.md#statements--expressions)
 		* Statement Completion Values -- Expression Side Effects -- Contextual Rules
 	* Operator Precedence
 	* [Automatic Semicolons(ASI)](types%20%26%20grammar/ch5.md#automatic-semicolons)
