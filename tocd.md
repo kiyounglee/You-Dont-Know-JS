@@ -15,7 +15,8 @@
 	* Types & Grammar
 	* Async & Performance
 	* ES6 & Beyond
-* [Appendix A: Acknowledgments](up%20%26%20going/apA.md)
+* [Appendix A]: Acknowledgments
+[Appendix A]:up%20%26%20going/apA.md
 ## [Scope & Closures](toc.md#scope--closures---mar-24201498p) *(detailed)*
 *[Foreword](up%20%26%20going/forword.md) - Mar 24,2014(98p)*
 * [Chapter 1: What is Scope?](up%20%26%20going/ch1.md)
