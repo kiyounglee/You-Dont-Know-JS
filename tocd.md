@@ -101,7 +101,7 @@
 	* Statements & Expressions
 		* Statement Completion Values -- Expression Side Effects -- Contextual Rules
 	* Operator Precedence
-	* Automatic Semicolons
+	* [Automatic Semicolons(ASI)](types%20%26%20grammar/ch5.md#automatic-semicolons)
 	* Errors
 	* Function Arguments
 	* `try..finally`
