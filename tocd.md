@@ -16,6 +16,7 @@
 	* Async & Performance
 	* ES6 & Beyond
 * [Appendix A: Acknowledgments]
+
 [Appendix A: Acknowledgments]: up%20%26%20going/apA.md
 
 ## [Scope & Closures](toc.md#scope--closures---mar-24201498p) *(detailed)*
