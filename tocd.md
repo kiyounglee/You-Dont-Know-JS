@@ -18,31 +18,35 @@
 * [Appendix A: Acknowledgments](up%20%26%20going/apA.md)
 ## [Scope & Closures](toc.md#scope--closures---mar-24201498p) *(detailed)*
 *[Foreword](up%20%26%20going/forword.md) - Mar 24,2014(98p)*
-* [Chapter 1: What is Scope?](up%20%26%20going/ch1.md) ---- [Review](up%20%26%20going/ch1.md#review-tldr)
+* [Chapter 1: What is Scope?](up%20%26%20going/ch1.md)
 	* Compiler Theory
 	* Understanding Scope
 	* Nested Scope
 	* Errors
-* [Chapter 2: Lexical Scope](up%20%26%20going/ch2.md) ---- [Review](up%20%26%20going/ch2.md#review-tldr)
+	* [Review](up%20%26%20going/ch1.md#review-tldr)
+* [Chapter 2: Lexical Scope](up%20%26%20going/ch2.md)
 	* Lex-time
 	* Cheating Lexical
-* [Chapter 3: Function vs. Block Scope](up%20%26%20going/ch3.md) ---- [Review](up%20%26%20going/ch3.md#review-tldr)
+	* [Review](up%20%26%20going/ch2.md#review-tldr)
+* [Chapter 3: Function vs. Block Scope](up%20%26%20going/ch3.md)
 	* Scope From Functions
 	* Hiding In Plain Scope
 	* Functions As Scopes
-		* Anonymous vs. Named
-		* IIEF(Invoking Function Expressions Immediately)
+		* Anonymous vs. Named --- IIEF(Invoking Function Expressions Immediately)
 	* Blocks As Scopes
-* [Chapter 4: Hoisting](up%20%26%20going/ch4.md) ---- [Review](up%20%26%20going/ch4.md#review-tldr)
+	* [Review](up%20%26%20going/ch3.md#review-tldr)
+* [Chapter 4: Hoisting](up%20%26%20going/ch4.md)
 	* Chicken Or The Egg?
 	* The Compiler Strikes Again
 	* Functions First
-* [Chapter 5: Scope Closures](up%20%26%20going/ch5.md) ---- [Review](up%20%26%20going/ch5.md#review-tldr)
+	* [Review](up%20%26%20going/ch4.md#review-tldr)
+* [Chapter 5: Scope Closures](up%20%26%20going/ch5.md)
 	* Enlightenment
 	* Nitty Gritty
 	* Now I Can See
 	* Loops + Closure
 	* Modules
+	* [Review](up%20%26%20going/ch5.md#review-tldr)
 * [Appendix A: Dynamic Scope](up%20%26%20going/apA.md)
 * [Appendix B: Polyfilling Block Scope](up%20%26%20going/apB.md)
 * [Appendix C: Lexical-this](up%20%26%20going/apC.md)
@@ -64,19 +68,20 @@
 	* Iteration
 * [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md) ---- [Review](this%20%26%20object%20prototypes/ch4.md#review-tldr)
 	* Class Theory --- Class Mechanics --- Class Inheritance -- Mixins
-* [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md) ---- [Review](this%20%26%20object%20prototypes/ch5.md#review-tldr)
+* [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
 	* `[[Prototype]]`
 		* `Object.prototype`
 		* Setting & Shadowing Properties
-	* "Class" -- "(Prototypal) Inheritance" -- Object Links
-* [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md) ---- [Review](this%20%26%20object%20prototypes/ch6.md#review-tldr)
+	* "Class" -- "(Prototypal) Inheritance" -- Object Links ---- [Review](this%20%26%20object%20prototypes/ch5.md#review-tldr)
+* [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md)
 	* Towards Delegation-Oriented Design
 		* Class Theory -- Delegation Theory -- Mental Models Compared
 	* Classes vs. Objects
 	* Simpler Design
 	* Nicer Syntax
 	* Introspection
-* [Appendix A: ES6 `class`](this%20%26%20object%20prototypes/apA.md) ---- [Review](this%20%26%20object%20prototypes/apA.md#review-tldr)
+	* [Review](this%20%26%20object%20prototypes/ch6.md#review-tldr)
+* [Appendix A: ES6 `class`](this%20%26%20object%20prototypes/apA.md)
 * [Appendix B: Acknowledgments](this%20%26%20object%20prototypes/apB.md)
 ## [Types & Grammar](toc.md#types--grammar---feb-42015198p) *(detailed)*
 *[Foreword](types%20%26%20grammar/forword.md) - Feb 4,2015(198p)*
