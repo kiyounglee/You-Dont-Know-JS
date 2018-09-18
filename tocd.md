@@ -6,7 +6,7 @@
 [Understanding ES6]: https://github.com/kiyounglee/understandinges6/blob/master/manuscript/toc.md#----
 [JS Allongé]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#----
 
-## [You Don't Know JS](toc.md#you-dont-konw-js-detailed---functional-light-js-detailed---understanding-es6-detailed---js-allong%C3%A9-detailed) *(detailed)*
+## [You Don't Know JS](toc.md#----) *(detailed)*
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
 ## [Up & Going](toc.md#up--going---mar-31201588p) *(detailed)*
 *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
