@@ -1,12 +1,12 @@
-###### ----
-***[You Dont Konw JS]**[_detail](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/tocd.md#----) - **[Functional Light JS]**[_detail](https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/tocd.md#----) - **[Understanding ES6]**[_detail](https://github.com/kiyounglee/understandinges6/blob/master/manuscript/tocd.md#----) - **[JS Allongé]**[_detail](https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/tocd.md#----)*
+<a name="top"></a>
+***[You Dont Konw JS]**[_detail](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/tocd.md#top) - **[Functional Light JS]**[_detail](https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/tocd.md#top) - **[Understanding ES6]**[_detail](https://github.com/kiyounglee/understandinges6/blob/master/manuscript/tocd.md#top) - **[JS Allongé]**[_detail](https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/tocd.md#top)*
 
-[You Dont Konw JS]: https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/toc.md#----
-[Functional Light JS]: https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md#----
-[Understanding ES6]: https://github.com/kiyounglee/understandinges6/blob/master/manuscript/toc.md#----
-[JS Allongé]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#----
+[You Dont Konw JS]: https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/toc.md#top
+[Functional Light JS]: https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md#top
+[Understanding ES6]: https://github.com/kiyounglee/understandinges6/blob/master/manuscript/toc.md#top
+[JS Allongé]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
 
-## [You Don't Know JS](toc.md#----) *(detailed)*
+## [You Don't Know JS](toc.md#top) *(detailed)*
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
 ## [Up & Going](toc.md#up--going---mar-31201588p) *(detailed)*
 *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
