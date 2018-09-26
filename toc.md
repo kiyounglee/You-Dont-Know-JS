@@ -74,9 +74,7 @@
 * [Chapter 8: Beyond ES6](es6%20%26%20beyond/ch8.md)
 	* [`async function`s](es6%20%26%20beyond/ch8.md#async-functions) -- [`Object.observe(..)`](es6%20%26%20beyond/ch8.md#objectobserve) -- [Exponentiation Operator](es6%20%26%20beyond/ch8.md#exponentiation-operator)
 	* [Object Properties and `...`](es6%20%26%20beyond/ch8.md#objects-properties-and-) -- [`Array#includes(..)`](es6%20%26%20beyond/ch8.md#arrayincludes) -- [SIMD](es6%20%26%20beyond/ch8.md#simd) -- [WebAssembly (WASM)](es6%20%26%20beyond/ch8.md#webassembly-wasm)
-
-## [You Don't Know JS](toc.md#top) *(detailed)*
-*[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
+---
 ## [Up & Going](toc.md#up--going---mar-31201588p) *(detailed)*
 *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
