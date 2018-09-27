@@ -70,7 +70,7 @@
 	* [Object Properties and `...`](es6%20%26%20beyond/ch8.md#objects-properties-and-) -- [`Array#includes(..)`](es6%20%26%20beyond/ch8.md#arrayincludes) -- [SIMD](es6%20%26%20beyond/ch8.md#simd) -- [WebAssembly (WASM)](es6%20%26%20beyond/ch8.md#webassembly-wasm)
 
 <a name="middle"></a>
-## [You Don't Know JS](#top) *_ detail*
+## [You Don't Know JS](#top) *- detail*
 ***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***     
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
 ## [Up & Going](#up--going) *_ detail*
