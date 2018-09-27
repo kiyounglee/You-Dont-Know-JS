@@ -73,7 +73,7 @@
 ## [You Don't Know JS](#top)*_detailed*
 ***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***     
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
-## [Up & Going](#top) *(detailed)*
+## [Up & Going](#top)*_detailed*
 *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 	* Code -- Try It Yourself -- Operators -- Values & Types -- Code Comments -- Variables
