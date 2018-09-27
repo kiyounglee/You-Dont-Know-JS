@@ -72,6 +72,7 @@
 <a name="middle"></a>
 ## [You Don't Know JS](#top) *(detailed)*
 ***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***     
+*[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
 ## [Up & Going](#top) *(detailed)*
 *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
