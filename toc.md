@@ -1,7 +1,7 @@
 <a name="top"></a>
 ## [You Don't Know JS](#middle)
 ***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***     
-*[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
+*[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*    
 **[Up & Going](#up--going---detail)**
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 * [Chapter 2: Into JavaScript](up%20%26%20going/ch2.md)
