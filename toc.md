@@ -2,11 +2,11 @@
 ## [You Don't Know JS](#middle)
 ***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***     
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
-## [Up & Going](#up--going-detailed)
+## [Up & Going](#up--going_detailed)
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 * [Chapter 2: Into JavaScript](up%20%26%20going/ch2.md)
 * [Chapter 3: Into YDKJS](up%20%26%20going/ch3.md)
-## [Scope & Closures](#scope--closures-detailed)
+## [Scope & Closures](#scope--closures_detailed)
 * [Chapter 1: What is Scope?](scope%20%26%20closures/ch1.md)
 * [Chapter 2: Lexical Scope](scope%20%26%20closures/ch2.md)
 * [Chapter 3: Function vs. Block Scope](scope%20%26%20closures/ch3.md)
@@ -15,7 +15,7 @@
 * [Appendix A: Dynamic Scope](scope%20%26%20closures/apA.md)
 * [Appendix B: Polyfilling Block Scope](scope%20%26%20closures/apB.md)
 * [Appendix C: Lexical-this](scope%20%26%20closures/apC.md)
-## [*this* & Object Prototypes](#this--object-prototypes-detailed)
+## [*this* & Object Prototypes](#this--object-prototypes_detailed)
 * [Chapter 1: *this* Or That?](this%20%26%20object%20prototypes/ch1.md)
 * [Chapter 2: *this* All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md)
 * [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
@@ -27,7 +27,7 @@
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md)
 * [Appendix A: ES6 *class*](this%20%26%20object%20prototypes/apA.md)
-## [Types & Grammar](#types--grammar-detailed)
+## [Types & Grammar](#types--grammar_detailed)
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md)
 * [Chapter 2: Values](types%20%26%20grammar/ch2.md)
 	* Arrays -- Strings -- Numbers -- Special Values -- Value vs Reference
@@ -37,7 +37,7 @@
 	* Statements & Expressions -- Operator Precedence -- Automatic Semicolons
 	* Errors -- Function Arguments -- `try..finally` -- `switch`
 * [Appendix A: Mixed Environment JavaScript](types%20%26%20grammar/apA.md)
-## [Async & Performance](#async--performance-detailed)
+## [Async & Performance](#async--performance_detailed)
 * [Chapter 1: Asynchrony: Now & Later](async%20%26%20performance/ch1.md)
 * [Chapter 2: Callbacks](async%20%26%20performance/ch2.md)
 * [Chapter 3: Promises](async%20%26%20performance/ch3.md)
@@ -46,7 +46,7 @@
 * [Chapter 6: Benchmarking & Tuning](async%20%26%20performance/ch6.md)
 * [Appendix A: Library: asynquence](async%20%26%20performance/apA.md)
 * [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
-## [ES6 & Beyond](#es6--beyond-detailed)
+## [ES6 & Beyond](#es6--beyond_detailed)
 * [Chapter 1: ES? Now & Future](es6%20%26%20beyond/ch1.md)   
 	* Versioning -- Transpiling   
 * [Chapter 2: Syntax](es6%20%26%20beyond/ch2.md)
@@ -73,7 +73,7 @@
 ## [You Don't Know JS](#top)*_detailed*
 ***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***     
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
-## [Up & Going](#top)*_detailed*
+## [Up & Going](#up--going)*_detailed*
 *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
 	* Code -- Try It Yourself -- Operators -- Values & Types -- Code Comments -- Variables
@@ -90,7 +90,7 @@
 * [Appendix A: Acknowledgments]
 
 [Appendix A: Acknowledgments]: up%20%26%20going/apA.md
-## [Scope & Closures](#top)*_detailed*
+## [Scope & Closures](#scope--closures)*_detailed*
 *[Foreword](up%20%26%20going/forword.md) - Mar 24,2014(98p)*
 * [Chapter 1: What is Scope?](up%20%26%20going/ch1.md)
 	* Compiler Theory
@@ -125,7 +125,7 @@
 * [Appendix B: Polyfilling Block Scope](up%20%26%20going/apB.md)
 * [Appendix C: Lexical-this](up%20%26%20going/apC.md)
 * [Appendix D: Acknowledgments](up%20%26%20going/apD.md)
-## [*this* & Object Prototypes](#top)*_detailed*
+## [*this* & Object Prototypes](#this--object-prototypes)*_detailed*
 *[Foreword](this%20%26%20object%20prototypes/forword.md) - Jul 27,2014(174p)*
 * [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md)
 	* Why `this`? --- Confusions --- What's `this`? ---- [Review](this%20%26%20object%20prototypes/ch1.md#review-tldr)
@@ -156,7 +156,7 @@
 	* [Review](this%20%26%20object%20prototypes/ch6.md#review-tldr)
 * [Appendix A: ES6 `class`](this%20%26%20object%20prototypes/apA.md)
 * [Appendix B: Acknowledgments](this%20%26%20object%20prototypes/apB.md)
-## [Types & Grammar](#top)*_detailed*
+## [Types & Grammar](#types--grammar)*_detailed*
 *[Foreword](types%20%26%20grammar/forword.md) - Feb 4,2015(198p)*
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md)
 	* A Type By Any Other Name... --- Built-in Types --- Values as Types ---- [Review](types%20%26%20grammar/ch1.md#review)
@@ -184,7 +184,7 @@
 	* `try..finally` --- `switch` ---- [Review](types%20%26%20grammar/ch5.md#review)
 * [Appendix A: Mixed Environment JavaScript](types%20%26%20grammar/apA.md)
 * [Appendix B: Acknowledgments](types%20%26%20grammar/apB.md)
-## [Async & Performance](#top)*_detailed*
+## [Async & Performance](#async--performance)*_detailed*
 *[Foreword](async%20%26%20performance/forword.md) - Feb 27,2015(296p)*
 * [Chapter 1: Asynchrony: Now & Later](async%20%26%20performance/ch1.md)
 	* A Program In Chunks -- Event Loop -- Parallel Threading
@@ -222,7 +222,7 @@
 * [Appendix A: *asynquence* Library](async%20%26%20performance/apA.md)
 * [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
 * [Appendix C: Acknowledgments](async%20%26%20performance/apC.md)
-## [ES6 & Beyond](#top)*_detailed*
+## [ES6 & Beyond](#es6--beyond)*_detailed*
 *[Foreword](es6%20&%20beyond/forword.md) - Dec 27,2015(278p)*
 * [Chapter 1: ES? Now & Future](es6%20&%20beyond/ch1.md)   
 	* Versioning -- Transpiling   
