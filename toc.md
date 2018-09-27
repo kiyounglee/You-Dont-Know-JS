@@ -90,7 +90,7 @@
 * [Appendix A: Acknowledgments]
 
 [Appendix A: Acknowledgments]: up%20%26%20going/apA.md
-## [Scope & Closures](#top) *(detailed)*
+## [Scope & Closures](#top)*_detailed*
 *[Foreword](up%20%26%20going/forword.md) - Mar 24,2014(98p)*
 * [Chapter 1: What is Scope?](up%20%26%20going/ch1.md)
 	* Compiler Theory
@@ -125,7 +125,7 @@
 * [Appendix B: Polyfilling Block Scope](up%20%26%20going/apB.md)
 * [Appendix C: Lexical-this](up%20%26%20going/apC.md)
 * [Appendix D: Acknowledgments](up%20%26%20going/apD.md)
-## [*this* & Object Prototypes](#top) *(detailed)*
+## [*this* & Object Prototypes](#top)*_detailed*
 *[Foreword](this%20%26%20object%20prototypes/forword.md) - Jul 27,2014(174p)*
 * [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md)
 	* Why `this`? --- Confusions --- What's `this`? ---- [Review](this%20%26%20object%20prototypes/ch1.md#review-tldr)
@@ -156,7 +156,7 @@
 	* [Review](this%20%26%20object%20prototypes/ch6.md#review-tldr)
 * [Appendix A: ES6 `class`](this%20%26%20object%20prototypes/apA.md)
 * [Appendix B: Acknowledgments](this%20%26%20object%20prototypes/apB.md)
-## [Types & Grammar](#top) *(detailed)*
+## [Types & Grammar](#top)*_detailed*
 *[Foreword](types%20%26%20grammar/forword.md) - Feb 4,2015(198p)*
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md)
 	* A Type By Any Other Name... --- Built-in Types --- Values as Types ---- [Review](types%20%26%20grammar/ch1.md#review)
@@ -184,7 +184,7 @@
 	* `try..finally` --- `switch` ---- [Review](types%20%26%20grammar/ch5.md#review)
 * [Appendix A: Mixed Environment JavaScript](types%20%26%20grammar/apA.md)
 * [Appendix B: Acknowledgments](types%20%26%20grammar/apB.md)
-## [Async & Performance](#top) *(detailed)*
+## [Async & Performance](#top)*_detailed*
 *[Foreword](async%20%26%20performance/forword.md) - Feb 27,2015(296p)*
 * [Chapter 1: Asynchrony: Now & Later](async%20%26%20performance/ch1.md)
 	* A Program In Chunks -- Event Loop -- Parallel Threading
@@ -222,7 +222,7 @@
 * [Appendix A: *asynquence* Library](async%20%26%20performance/apA.md)
 * [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
 * [Appendix C: Acknowledgments](async%20%26%20performance/apC.md)
-## [ES6 & Beyond](#top) *(detailed)*
+## [ES6 & Beyond](#top)*_detailed*
 *[Foreword](es6%20&%20beyond/forword.md) - Dec 27,2015(278p)*
 * [Chapter 1: ES? Now & Future](es6%20&%20beyond/ch1.md)   
 	* Versioning -- Transpiling   
