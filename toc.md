@@ -1,12 +1,6 @@
 <a name="top"></a>
-***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***
-
-[You Dont Konw JS]: https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/toc.md#top
-[Functional Light JS]: https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md#top
-[Understanding ES6]: https://github.com/kiyounglee/understandinges6/blob/master/manuscript/toc.md#top
-[Javascript Allongé-6th]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
-
-## [You Don't Know JS](#up--going-detailed)
+## [You Don't Know JS](#middle)
+***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***     
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
 ## [Up & Going](#up--going-detailed) - *Mar 31,2015(88p)*  
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
@@ -74,7 +68,10 @@
 * [Chapter 8: Beyond ES6](es6%20%26%20beyond/ch8.md)
 	* [`async function`s](es6%20%26%20beyond/ch8.md#async-functions) -- [`Object.observe(..)`](es6%20%26%20beyond/ch8.md#objectobserve) -- [Exponentiation Operator](es6%20%26%20beyond/ch8.md#exponentiation-operator)
 	* [Object Properties and `...`](es6%20%26%20beyond/ch8.md#objects-properties-and-) -- [`Array#includes(..)`](es6%20%26%20beyond/ch8.md#arrayincludes) -- [SIMD](es6%20%26%20beyond/ch8.md#simd) -- [WebAssembly (WASM)](es6%20%26%20beyond/ch8.md#webassembly-wasm)
----
+
+<a name="middle"></a>
+## [You Don't Know JS](#top) *(detailed)*
+***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***     
 ## [Up & Going](#top) *(detailed)*
 *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md)
@@ -256,3 +253,9 @@
 	* `async function`s -- `Object.observe(..)` -- Exponentiation Operator -- Object Properties and `...`
 	* `Array#includes(..)` -- SIMD -- WebAssembly (WASM)
 * [Appendix A: Acknowledgments](es6%20&%20beyond/apA.md)
+
+
+[You Dont Konw JS]: https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/toc.md#top
+[Functional Light JS]: https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md#top
+[Understanding ES6]: https://github.com/kiyounglee/understandinges6/blob/master/manuscript/toc.md#top
+[Javascript Allongé-6th]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
