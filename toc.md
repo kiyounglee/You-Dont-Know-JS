@@ -72,7 +72,7 @@
 
 <a name="middle"></a>
 ## [You Don't Know JS](#top) *- detail*
-***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***     
+***[You Dont Konw JS-detail]** --- **[Functional Light JS-detail]** --- **[Understanding ES6-detail]** --- **[Javascript Allongé-6th-detail]***     
 *[Preface](preface.md) - [By Kyle Simpson](https://github.com/getify)*
 ### [Up & Going](#up--going) *- detail*
 *[Foreword](up%20%26%20going/forword.md) - Mar 31,2015(88p)*
@@ -261,3 +261,8 @@
 [Functional Light JS]: https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md#top
 [Understanding ES6]: https://github.com/kiyounglee/understandinges6/blob/master/manuscript/toc.md#top
 [Javascript Allongé-6th]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
+
+[You Dont Konw JS-detail]: https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/toc.md#middle
+[Functional Light JS-detail]: https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md#middle
+[Understanding ES6-detail]: https://github.com/kiyounglee/understandinges6/blob/master/manuscript/toc.md#middle
+[Javascript Allongé-6th-detail]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#middle
