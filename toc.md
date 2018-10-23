@@ -129,10 +129,10 @@
 ### [*this* & Object Prototypes](#this--object-prototypes) *- detail*
 *[Foreword](this%20%26%20object%20prototypes/forword.md) - Jul 27,2014(174p)*
 * [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md)
-	* Why `this`? --- Confusions --- What's `this`? ---- [Review](this%20%26%20object%20prototypes/ch1.md#review-tldr)
+	* Why `this`? --- Confusions --- What's `this`? -- [Review](this%20%26%20object%20prototypes/ch1.md#review-tldr)
 * [Chapter 2: `this` All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md)
 	* Call-site --- Nothing But Rules(`this` binding)
-	* Everything In Order --- Binding Exceptions --- Lexical `this` ---- [Review](this%20%26%20object%20prototypes/ch2.md#review-tldr)
+	* Everything In Order --- Binding Exceptions --- Lexical `this` -- [Review](this%20%26%20object%20prototypes/ch2.md#review-tldr)
 * [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
 	* Syntax --- Type
 	* Contents
@@ -141,12 +141,12 @@
 		* `[[Get]]` / `[[Put]]` / Getters & Setters / Existence
 	* Iteration --- [Review](this%20%26%20object%20prototypes/ch3.md#review-tldr)
 * [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md)
-	* Class Theory --- Class Mechanics --- Class Inheritance -- Mixins ---- [Review](this%20%26%20object%20prototypes/ch4.md#review-tldr)
+	* Class Theory --- Class Mechanics --- Class Inheritance -- Mixins -- [Review](this%20%26%20object%20prototypes/ch4.md#review-tldr)
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
 	* `[[Prototype]]`
 		* `Object.prototype`
 		* Setting & Shadowing Properties
-	* "Class" -- "(Prototypal) Inheritance" -- Object Links ---- [Review](this%20%26%20object%20prototypes/ch5.md#review-tldr)
+	* "Class" -- "(Prototypal) Inheritance" -- Object Links -- [Review](this%20%26%20object%20prototypes/ch5.md#review-tldr)
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md)
 	* Towards Delegation-Oriented Design
 		* Class Theory -- Delegation Theory -- Mental Models Compared
@@ -160,9 +160,9 @@
 ### [Types & Grammar](#types--grammar) *- detail*
 *[Foreword](types%20%26%20grammar/forword.md) - Feb 4,2015(198p)*
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md)
-	* A Type By Any Other Name... --- Built-in Types --- Values as Types ---- [Review](types%20%26%20grammar/ch1.md#review)
+	* A Type By Any Other Name... --- Built-in Types --- Values as Types -- [Review](types%20%26%20grammar/ch1.md#review)
 * [Chapter 2: Values](types%20%26%20grammar/ch2.md)
-	* Arrays --- Strings --- Numbers --- Special Values --- Value vs Reference ---- [Review](types%20%26%20grammar/ch2.md#review)
+	* Arrays --- Strings --- Numbers --- Special Values --- Value vs Reference -- [Review](types%20%26%20grammar/ch2.md#review)
 * [Chapter 3: Natives](types%20%26%20grammar/ch3.md)
 	* Internal `[[Class]]`
 	* Boxing Wrappers
@@ -175,14 +175,14 @@
 	* [Review](types%20%26%20grammar/ch3.md#review)
 * [Chapter 4: Coercion](types%20%26%20grammar/ch4.md)
 	* Converting Values -- Abstract Value Operations --- Explicit Coercion -- Implicit Coercion
-	* Loose Equals vs Strict Equals -- Abstract Relational Comparison ---- [Review](types%20%26%20grammar/ch4.md#review) 
+	* Loose Equals vs Strict Equals -- Abstract Relational Comparison -- [Review](types%20%26%20grammar/ch4.md#review) 
 * [Chapter 5: Grammar](types%20%26%20grammar/ch5.md)
 	* [Statements & Expressions](types%20%26%20grammar/ch5.md#statements--expressions)
 		* Statement Completion Values -- Expression Side Effects -- Contextual Rules
 	* Operator Precedence
 	* [Automatic Semicolons(ASI)](types%20%26%20grammar/ch5.md#automatic-semicolons)
 	* Errors --- Function Arguments
-	* `try..finally` --- `switch` ---- [Review](types%20%26%20grammar/ch5.md#review)
+	* `try..finally` --- `switch` -- [Review](types%20%26%20grammar/ch5.md#review)
 * [Appendix A: Mixed Environment JavaScript](types%20%26%20grammar/apA.md)
 * [Appendix B: Acknowledgments](types%20%26%20grammar/apB.md)
 ### [Async & Performance](#async--performance) *- detail*
