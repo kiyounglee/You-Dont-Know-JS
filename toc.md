@@ -131,7 +131,7 @@
 * [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
 	* Syntax -- Type -- ▼ Contents -- [Iteration](this%20%26%20object%20prototypes/ch3.md#iteration) -- [Review](this%20%26%20object%20prototypes/ch3.md#review-tldr)
 		* Computed Property Names -- Property vs. Method -- Arrays -- Duplicating Objects
-		* Property Descriptors -- Immutability -- `[[Get]]` / `[[Put]]` / Getters & Setters / Existence
+		* Property Descriptors -- Immutability -- `[[Get]]` -- `[[Put]]` -- Getters & Setters -- Existence
 * [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md)
 	* Class Theory -- Class Mechanics -- Class Inheritance -- Mixins -- [Review](this%20%26%20object%20prototypes/ch4.md#review-tldr)
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
