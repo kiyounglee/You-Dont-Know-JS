@@ -233,7 +233,7 @@ Either way the `this` is changed unexpectedly, you are not really in control of 
 
 ### Explicit Binding
 
-With *implicit binding* as we just saw, we had to mutate the object in question to include a reference on itself to the function, and use this property function reference to indirectly (implicitly) bind `this` to the object.
+With *implicit binding* as we just saw, **we had to mutate the object in question to include a reference on itself to the function,** and use this property function reference to indirectly (implicitly) bind `this` to the object.
 
 But, what if you want to force a function call to use a particular object for the `this` binding, without putting a property function reference on the object?
 
