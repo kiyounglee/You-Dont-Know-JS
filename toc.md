@@ -89,17 +89,10 @@
 * [Chapter 2: Lexical Scope](up%20%26%20going/ch2.md)
 	* Lex-time -- Cheating Lexical -- [Review](up%20%26%20going/ch2.md#review-tldr)
 * [Chapter 3: Function vs. Block Scope](up%20%26%20going/ch3.md)
-	* Scope From Functions
-	* Hiding In Plain Scope
-	* Functions As Scopes
+	* Scope From Functions -- Hiding In Plain Scope -- ▼ Functions As Scopes -- Blocks As Scopes -- [Review](up%20%26%20going/ch3.md#review-tldr)
 		* Anonymous vs. Named --- IIEF(Invoking Function Expressions Immediately)
-	* Blocks As Scopes
-	* [Review](up%20%26%20going/ch3.md#review-tldr)
 * [Chapter 4: Hoisting](up%20%26%20going/ch4.md)
-	* Chicken Or The Egg?
-	* The Compiler Strikes Again
-	* Functions First
-	* [Review](up%20%26%20going/ch4.md#review-tldr)
+	* Chicken Or The Egg? -- The Compiler Strikes Again -- Functions First -- [Review](up%20%26%20going/ch4.md#review-tldr)
 * [Chapter 5: Scope Closures](up%20%26%20going/ch5.md)
 	* Enlightenment -- Nitty Gritty -- Now I Can See -- Loops + Closure -- Modules -- [Review](up%20%26%20going/ch5.md#review-tldr)
 * [Appendix A: Dynamic Scope](up%20%26%20going/apA.md)
