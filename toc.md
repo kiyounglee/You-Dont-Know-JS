@@ -126,7 +126,7 @@
 * [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md#you-dont-know-js-this--object-prototypes)
 	* Why `this`? -- Confusions -- What's `this`? -- [Review](this%20%26%20object%20prototypes/ch1.md#review-tldr)
 * [Chapter 2: `this` All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md#you-dont-know-js-this--object-prototypes)
-	* Call-site -- Nothing But Rules(`this` binding)
+	* Call-site -- Nothing But Rules : [`this` binding](this%20%26%20object%20prototypes/ch2.md#nothing-but-rules)
 	* Everything In Order -- Binding Exceptions -- Lexical `this` -- [Review](this%20%26%20object%20prototypes/ch2.md#review-tldr)
 * [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md#you-dont-know-js-this--object-prototypes)
 	* Syntax -- Type -- ▼ [Contents](this%20%26%20object%20prototypes/ch3.md#contents) -- [Iteration](this%20%26%20object%20prototypes/ch3.md#iteration) -- [Review](this%20%26%20object%20prototypes/ch3.md#review-tldr)
