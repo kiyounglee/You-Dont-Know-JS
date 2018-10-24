@@ -113,17 +113,12 @@
 * [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md#you-dont-know-js-this--object-prototypes)
 	* Class Theory -- Class Mechanics -- Class Inheritance -- Mixins -- [Review](this%20%26%20object%20prototypes/ch4.md#review-tldr)
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md#you-dont-know-js-this--object-prototypes)
-	* `[[Prototype]]`
+	* ▼ `[[Prototype]]` -- "Class" -- "(Prototypal) Inheritance" -- Object Links -- [Review](this%20%26%20object%20prototypes/ch5.md#review-tldr)
 		* `Object.prototype` -- Setting & Shadowing Properties
-	* "Class" -- "(Prototypal) Inheritance" -- Object Links -- [Review](this%20%26%20object%20prototypes/ch5.md#review-tldr)
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md#you-dont-know-js-this--object-prototypes)
 	* Towards Delegation-Oriented Design
 		* Class Theory -- Delegation Theory -- Mental Models Compared
-	* Classes vs. Objects
-	* Simpler Design
-	* Nicer Syntax
-	* Introspection
-	* [Review](this%20%26%20object%20prototypes/ch6.md#review-tldr)
+	* Classes vs. Objects -- Simpler Design -- Nicer Syntax -- Introspection -- [Review](this%20%26%20object%20prototypes/ch6.md#review-tldr)
 * [Appendix A: ES6 `class`](this%20%26%20object%20prototypes/apA.md)
 * [Appendix B: Acknowledgments](this%20%26%20object%20prototypes/apB.md)
 ## [Types & Grammar](#types--grammar) *- detail*
@@ -133,15 +128,8 @@
 * [Chapter 2: Values](types%20%26%20grammar/ch2.md)
 	* Arrays -- Strings -- Numbers -- Special Values -- Value vs Reference -- [Review](types%20%26%20grammar/ch2.md#review)
 * [Chapter 3: Natives](types%20%26%20grammar/ch3.md)
-	* Internal `[[Class]]`
-	* Boxing Wrappers
-	* Unboxing
-	* Natives as Constructors
-		* `Array(..)`
-		* `Object(..)`, `Function(..)`, and `RegExp(..)`
-		* `Date(..)` and `Error(..)`
-		* `Symbol(..)`
-	* [Review](types%20%26%20grammar/ch3.md#review)
+	* Internal `[[Class]]` -- Boxing Wrappers -- Unboxing -- ▼ Natives as Constructors -- [Review](types%20%26%20grammar/ch3.md#review)
+		* `Array(..)` -- `Object(..)`,`Function(..)`,and `RegExp(..)` -- `Date(..)` and `Error(..)` -- `Symbol(..)`
 * [Chapter 4: Coercion](types%20%26%20grammar/ch4.md)
 	* Converting Values -- Abstract Value Operations -- Explicit Coercion -- Implicit Coercion
 	* Loose Equals vs Strict Equals -- Abstract Relational Comparison -- [Review](types%20%26%20grammar/ch4.md#review) 
