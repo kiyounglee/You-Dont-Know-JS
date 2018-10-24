@@ -20,10 +20,7 @@
 * [Chapter 1: *this* Or That?](this%20%26%20object%20prototypes/ch1.md)
 * [Chapter 2: *this* All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md)
 * [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
-	* Syntax -- Type -- ▼ Contents -- Iteration
-		* Computed Property Names / Property vs. Method / Arrays
-		* Duplicating Objects / Property Descriptors / Immutability
-		* `[[Get]]` / `[[Put]]` / Getters & Setters / Existence
+	* Syntax -- Type -- Contents -- Iteration
 * [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md)
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md)
@@ -132,7 +129,9 @@
 	* Call-site -- Nothing But Rules(`this` binding)
 	* Everything In Order -- Binding Exceptions -- Lexical `this` -- [Review](this%20%26%20object%20prototypes/ch2.md#review-tldr)
 * [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
-	* Syntax -- Type -- Contents -- [Iteration](this%20%26%20object%20prototypes/ch3.md#iteration) -- [Review](this%20%26%20object%20prototypes/ch3.md#review-tldr)
+	* Syntax -- Type -- ▼ Contents -- [Iteration](this%20%26%20object%20prototypes/ch3.md#iteration) -- [Review](this%20%26%20object%20prototypes/ch3.md#review-tldr)
+		* Computed Property Names -- Property vs. Method -- Arrays -- Duplicating Objects -- Property Descriptors
+		* Immutability -- `[[Get]]` / `[[Put]]` / Getters & Setters / Existence
 * [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md)
 	* Class Theory -- Class Mechanics -- Class Inheritance -- Mixins -- [Review](this%20%26%20object%20prototypes/ch4.md#review-tldr)
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
