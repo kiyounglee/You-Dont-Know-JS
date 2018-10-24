@@ -80,24 +80,14 @@
 	* Values & Types -- Variables -- Conditionals -- Strict Mode -- Functions As Values
 	* `this` Keyword -- Prototypes -- Old & New -- Non-JavaScript
 * [Chapter 3: Into YDKJS](up%20%26%20going/ch3.md)
-	* Scope & Closures 
-	* this & Object Prototypes
-	* Types & Grammar
-	* Async & Performance
-	* ES6 & Beyond
+	* Scope & Closures -- this & Object Prototypes -- Types & Grammar -- Async & Performance -- ES6 & Beyond
 * [Appendix A: Acknowledgments](up%20%26%20going/apA.md)
 ## [Scope & Closures](#scope--closures) *- detail*
 *[Foreword](up%20%26%20going/forword.md) - Mar 24,2014(98p)*
 * [Chapter 1: What is Scope?](up%20%26%20going/ch1.md)
-	* Compiler Theory
-	* Understanding Scope
-	* Nested Scope
-	* Errors
-	* [Review](up%20%26%20going/ch1.md#review-tldr)
+	* Compiler Theory -- Understanding Scope -- Nested Scope -- Errors --[Review](up%20%26%20going/ch1.md#review-tldr)
 * [Chapter 2: Lexical Scope](up%20%26%20going/ch2.md)
-	* Lex-time
-	* Cheating Lexical
-	* [Review](up%20%26%20going/ch2.md#review-tldr)
+	* Lex-time -- Cheating Lexical -- [Review](up%20%26%20going/ch2.md#review-tldr)
 * [Chapter 3: Function vs. Block Scope](up%20%26%20going/ch3.md)
 	* Scope From Functions
 	* Hiding In Plain Scope
@@ -111,12 +101,7 @@
 	* Functions First
 	* [Review](up%20%26%20going/ch4.md#review-tldr)
 * [Chapter 5: Scope Closures](up%20%26%20going/ch5.md)
-	* Enlightenment
-	* Nitty Gritty
-	* Now I Can See
-	* Loops + Closure
-	* Modules
-	* [Review](up%20%26%20going/ch5.md#review-tldr)
+	* Enlightenment -- Nitty Gritty -- Now I Can See -- Loops + Closure -- Modules -- [Review](up%20%26%20going/ch5.md#review-tldr)
 * [Appendix A: Dynamic Scope](up%20%26%20going/apA.md)
 * [Appendix B: Polyfilling Block Scope](up%20%26%20going/apB.md)
 * [Appendix C: Lexical-this](up%20%26%20going/apC.md)
