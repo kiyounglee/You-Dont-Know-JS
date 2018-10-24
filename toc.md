@@ -123,22 +123,22 @@
 * [Appendix D: Acknowledgments](up%20%26%20going/apD.md)
 ## [*this* & Object Prototypes](#this--object-prototypes) *- detail*
 *[Foreword](this%20%26%20object%20prototypes/forword.md) - Jul 27,2014(174p)*
-* [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md)
+* [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md#you-dont-know-js-this--object-prototypes)
 	* Why `this`? -- Confusions -- What's `this`? -- [Review](this%20%26%20object%20prototypes/ch1.md#review-tldr)
-* [Chapter 2: `this` All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md)
+* [Chapter 2: `this` All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md#you-dont-know-js-this--object-prototypes)
 	* Call-site -- Nothing But Rules(`this` binding)
 	* Everything In Order -- Binding Exceptions -- Lexical `this` -- [Review](this%20%26%20object%20prototypes/ch2.md#review-tldr)
-* [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
+* [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md#you-dont-know-js-this--object-prototypes)
 	* Syntax -- Type -- ▼ [Contents](this%20%26%20object%20prototypes/ch3.md#contents) -- [Iteration](this%20%26%20object%20prototypes/ch3.md#iteration) -- [Review](this%20%26%20object%20prototypes/ch3.md#review-tldr)
 		* Computed Property Names -- Property vs. Method -- Arrays -- Duplicating Objects
 		* Property Descriptors -- Immutability -- `[[Get]]` -- `[[Put]]` -- Getters & Setters -- Existence
-* [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md)
+* [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md#you-dont-know-js-this--object-prototypes)
 	* Class Theory -- Class Mechanics -- Class Inheritance -- Mixins -- [Review](this%20%26%20object%20prototypes/ch4.md#review-tldr)
-* [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
+* [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md#you-dont-know-js-this--object-prototypes)
 	* `[[Prototype]]`
 		* `Object.prototype` -- Setting & Shadowing Properties
 	* "Class" -- "(Prototypal) Inheritance" -- Object Links -- [Review](this%20%26%20object%20prototypes/ch5.md#review-tldr)
-* [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md)
+* [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md#you-dont-know-js-this--object-prototypes)
 	* Towards Delegation-Oriented Design
 		* Class Theory -- Delegation Theory -- Mental Models Compared
 	* Classes vs. Objects
