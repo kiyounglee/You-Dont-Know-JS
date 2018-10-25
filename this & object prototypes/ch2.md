@@ -814,8 +814,9 @@ If you find yourself writing `this`-style code, but most or all the time, you de
 
 A program can effectively use both styles of code (lexical and `this`), but inside of the same function, and indeed for the same sorts of look-ups, mixing the two mechanisms is usually asking for harder-to-maintain code, and probably working too hard to be clever.
 
-> #### :boom:function with `this` VS func without `this`:boom: by KYLEE
-> Functional Light : 
+> :boom::boom::boom::boom: by KY
+> #### func with `this` VS func without `this`
+> [Functional Light : What's this](https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/ch2.md#summary)
 
 ## Review (TL;DR)
 
