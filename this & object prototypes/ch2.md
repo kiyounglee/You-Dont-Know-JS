@@ -807,16 +807,15 @@ foo.call( obj ); // 2
 ```
 While `self = this` and arrow-functions both seem like good "solutions" to not wanting to use `bind(..)`, they are essentially fleeing from `this` instead of understanding and embracing it.
 
-If you find yourself writing `this`-style code, but most or all the time, you defeat the `this` mechanism with lexical `self = this` or arrow-function "tricks", perhaps you should either::boom::boom:
+If you find yourself writing `this`-style code, but most or all the time, you defeat the `this` mechanism with lexical `self = this` or arrow-function "tricks", perhaps you should either:
 
-> #### function with `this` VS func without `this` by KYLEE
-> Functional Light : 
-
-1. Use only lexical scope and forget the false pretense of `this`-style code.
-2. Embrace `this`-style mechanisms completely, including using `bind(..)` where necessary, and try to avoid `self = this` and arrow-function "lexical this" tricks.
+1. [Use only lexical scope and forget the false pretense of `this`-style code.](#aa)
+2. [Embrace `this`-style mechanisms completely, including using `bind(..)` where necessary,](#aa) and try to avoid `self = this` and arrow-function "lexical this" tricks.
 
 A program can effectively use both styles of code (lexical and `this`), but inside of the same function, and indeed for the same sorts of look-ups, mixing the two mechanisms is usually asking for harder-to-maintain code, and probably working too hard to be clever.
 
+> #### :boom:function with `this` VS func without `this`:boom: by KYLEE
+> Functional Light : 
 
 ## Review (TL;DR)
 
