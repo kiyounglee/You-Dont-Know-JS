@@ -92,7 +92,7 @@
 * [*Appendix D: Acknowledgments*](scope%20%26%20closures/apD.md)
 ## [*this* & Object Prototypes](#this--object-prototypes) *- detail*
 *[Foreword](this%20%26%20object%20prototypes/forword.md) - Jul 27,2014(174p)*
-* [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md#you-dont-know-js-this--object-prototypes)
+* [Chapter 1: What's `this`?](this%20%26%20object%20prototypes/ch1.md#you-dont-know-js-this--object-prototypes)
 	* Why `this`? -- Confusions -- What's `this`? -- [Review](this%20%26%20object%20prototypes/ch1.md#review-tldr)
 * [Chapter 2: `this` Binding](this%20%26%20object%20prototypes/ch2.md#you-dont-know-js-this--object-prototypes)
 	* Call-site -- [Binding: 4 Rules](this%20%26%20object%20prototypes/ch2.md#nothing-but-rules) -- Everything In Order -- Binding Exceptions -- Lexical `this` -- [Review](this%20%26%20object%20prototypes/ch2.md#review-tldr)
