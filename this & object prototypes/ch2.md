@@ -312,14 +312,12 @@ function foo(something) {
 	console.log( this.a, something );
 	return this.a + something;
 }
-
-// simple `bind` helper
+// simple `bind` helper  :boom: spread 를 써서 만들면..훨씬 멋지겟당.
 function bind(fn, obj) {
 	return function() {
 		return fn.apply( obj, arguments );
 	};
 }
-
 var obj = {
 	a: 2
 };
@@ -329,7 +327,6 @@ var bar = bind( foo, obj );
 var b = bar( 3 ); // 2 3
 console.log( b ); // 5
 ```
-
 Since *hard binding* is such a common pattern, it's provided with a built-in utility as of ES5: `Function.prototype.bind`, and it's used like this:
 
 ```js
@@ -574,17 +571,13 @@ For example:
 function foo(p1,p2) {
 	this.val = p1 + p2;
 }
-
-// using `null` here because we don't care about
-// the `this` hard-binding in this scenario, and
-// it will be overridden by the `new` call anyway!
+// using `null` here because we don't care about the `this` hard-binding in this scenario, 
+// and it will be overridden by the `new` call anyway!
 var bar = foo.bind( null, "p1" );
-
 var baz = new bar( "p2" );
 
 baz.val; // p1p2
 ```
-
 ### Determining `this`
 
 Now, we can summarize the rules for determining `this` from a function call's call-site, in their order of precedence. Ask these questions in this order, and stop when the first rule applies.
@@ -621,12 +614,10 @@ If you pass `null` or `undefined` as a `this` binding parameter to `call`, `appl
 function foo() {
 	console.log( this.a );
 }
-
 var a = 2;
 
 foo.call( null ); // 2
 ```
-
 Why would you intentionally pass something like `null` for a `this` binding?
 
 It's quite common to use `apply(..)` for spreading out arrays of values as parameters to a function call. Similarly, `bind(..)` can curry parameters (pre-set values), which can be very helpful.
@@ -635,7 +626,6 @@ It's quite common to use `apply(..)` for spreading out arrays of values as param
 function foo(a,b) {
 	console.log( "a:" + a + ", b:" + b );
 }
-
 // spreading out array as parameters
 foo.apply( null, [2, 3] ); // a:2, b:3
 
@@ -690,7 +680,6 @@ One of the most common ways that *indirect references* occur is from an assignme
 function foo() {
 	console.log( this.a );
 }
-
 var a = 2;
 var o = { a: 3, foo: foo };
 var p = { a: 4 };
@@ -698,7 +687,6 @@ var p = { a: 4 };
 o.foo(); // 3
 (p.foo = o.foo)(); // 2
 ```
-
 The *result value* of the assignment expression `p.foo = o.foo` is a reference to just the underlying function object. As such, the effective call-site is just `foo()`, not `p.foo()` or `o.foo()` as you might expect. Per the rules above, the *default binding* rule applies.
 
 Reminder: regardless of how you get to a function invocation using the *default binding* rule, the `strict mode` status of the **contents** of the invoked function making the `this` reference -- not the function call-site -- determines the *default binding* value: either the `global` object if in non-`strict mode` or `undefined` if in `strict mode`.
@@ -710,7 +698,6 @@ We saw earlier that *hard binding* was one strategy for preventing a function ca
 It would be nice if there was a way to provide a different default for *default binding* (not `global` or `undefined`), while still leaving the function able to be manually `this` bound via *implicit binding* or *explicit binding* techniques.
 
 We can construct a so-called *soft binding* utility which emulates our desired behavior.
-
 ```js
 if (!Function.prototype.softBind) {
 	Function.prototype.softBind = function(obj) {
@@ -732,11 +719,9 @@ if (!Function.prototype.softBind) {
 	};
 }
 ```
-
 The `softBind(..)` utility provided here works similarly to the built-in ES5 `bind(..)` utility, except with our *soft binding* behavior. It wraps the specified function in logic that checks the `this` at call-time and if it's `global` or `undefined`, uses a pre-specified alternate *default* (`obj`). Otherwise the `this` is left untouched. It also provides optional currying (see the `bind(..)` discussion earlier).
 
 Let's demonstrate its usage:
-
 ```js
 function foo() {
    console.log("name: " + this.name);
@@ -757,7 +742,6 @@ fooOBJ.call( obj3 ); // name: obj3   <---- look!
 
 setTimeout( obj2.foo, 10 ); // name: obj   <---- falls back to soft-binding
 ```
-
 The soft-bound version of the `foo()` function can be manually `this`-bound to `obj2` or `obj3` as shown, but it falls back to `obj` if the *default binding* would otherwise apply.
 
 ## Lexical `this`
@@ -767,7 +751,6 @@ Normal functions abide by the 4 rules we just covered. But ES6 introduces a spec
 Arrow-functions are signified not by the `function` keyword, but by the `=>` so called "fat arrow" operator. Instead of using the four standard `this` rules, arrow-functions adopt the `this` binding from the enclosing (function or global) scope.
 
 Let's illustrate arrow-function lexical scope:
-
 ```js
 function foo() {
 	// return an arrow function
@@ -788,11 +771,9 @@ var obj2 = {
 var bar = foo.call( obj1 );
 bar.call( obj2 ); // 2, not 3!
 ```
-
 The arrow-function created in `foo()` lexically captures whatever `foo()`s `this` is at its call-time. Since `foo()` was `this`-bound to `obj1`, `bar` (a reference to the returned arrow-function) will also be `this`-bound to `obj1`. The lexical binding of an arrow-function cannot be overridden (even with `new`!).
 
 The most common use-case will likely be in the use of callbacks, such as event handlers or timers:
-
 ```js
 function foo() {
 	setTimeout(() => {
@@ -807,9 +788,7 @@ var obj = {
 
 foo.call( obj ); // 2
 ```
-
 While arrow-functions provide an alternative to using `bind(..)` on a function to ensure its `this`, which can seem attractive, **it's important to note that they essentially are disabling the traditional `this` mechanism in favor of more widely-understood lexical scoping.** Pre-ES6, we already have a fairly common pattern for doing so, which is basically almost indistinguishable from the spirit of ES6 arrow-functions:
-
 ```js
 function foo() {
 	var self = this; // lexical capture of `this`
@@ -824,10 +803,9 @@ var obj = {
 
 foo.call( obj ); // 2
 ```
-
 While `self = this` and arrow-functions both seem like good "solutions" to not wanting to use `bind(..)`, they are essentially fleeing from `this` instead of understanding and embracing it.
 
-If you find yourself writing `this`-style code, but most or all the time, you defeat the `this` mechanism with lexical `self = this` or arrow-function "tricks", perhaps you should either:
+If you find yourself writing `this`-style code, but most or all the time, you defeat the `this` mechanism with lexical `self = this` or arrow-function "tricks", perhaps you should either::boom::boom:
 
 1. Use only lexical scope and forget the false pretense of `this`-style code.
 
