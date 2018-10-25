@@ -106,8 +106,7 @@
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md#you-dont-know-js-this--object-prototypes)
 	* `[[Prototype]]` -- "Class" -- "(Prototypal) Inheritance" -- Object Links -- [Review](this%20%26%20object%20prototypes/ch5.md#review-tldr)
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md#you-dont-know-js-this--object-prototypes)
-	* Towards Delegation-Oriented Design
-		* Class Theory -- Delegation Theory -- Mental Models Compared
+	* Towards Delegation-Oriented Design( Class Theory / Delegation Theory )
 	* Classes vs. Objects -- Simpler Design -- Nicer Syntax -- Introspection -- [Review](this%20%26%20object%20prototypes/ch6.md#review-tldr)
 * [*Appendix A: ES6 `class`*](this%20%26%20object%20prototypes/apA.md)
 * [*Appendix B: Acknowledgments*](this%20%26%20object%20prototypes/apB.md)
