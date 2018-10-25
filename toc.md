@@ -105,8 +105,7 @@
 * [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md#you-dont-know-js-this--object-prototypes)
 	* Class Theory -- Class Mechanics -- Class Inheritance -- Mixins -- [Review](this%20%26%20object%20prototypes/ch4.md#review-tldr)
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md#you-dont-know-js-this--object-prototypes)
-	* ▼ `[[Prototype]]` -- "Class" -- "(Prototypal) Inheritance" -- Object Links -- [Review](this%20%26%20object%20prototypes/ch5.md#review-tldr)
-		* `Object.prototype` -- Setting & Shadowing Properties
+	* `[[Prototype]]` -- "Class" -- "(Prototypal) Inheritance" -- Object Links -- [Review](this%20%26%20object%20prototypes/ch5.md#review-tldr)
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md#you-dont-know-js-this--object-prototypes)
 	* Towards Delegation-Oriented Design
 		* Class Theory -- Delegation Theory -- Mental Models Compared
