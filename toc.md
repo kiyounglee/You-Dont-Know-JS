@@ -73,7 +73,7 @@
 	* `this` Keyword -- Prototypes -- Old & New -- Non-JavaScript
 * [Chapter 3: Into YDKJS](up%20%26%20going/ch3.md)
 	* Scope & Closures -- this & Object Prototypes -- Types & Grammar -- Async & Performance -- ES6 & Beyond
-* [Appendix A: Acknowledgments](up%20%26%20going/apA.md)
+* [*Appendix A: Acknowledgments*](up%20%26%20going/apA.md)
 ## [Scope & Closures](#scope--closures) *- detail*
 *[Foreword](up%20%26%20going/forword.md) - Mar 24,2014(98p)*
 * [Chapter 1: What is Scope?](up%20%26%20going/ch1.md)
@@ -87,10 +87,10 @@
 	* Chicken Or The Egg? -- The Compiler Strikes Again -- Functions First -- [Review](up%20%26%20going/ch4.md#review-tldr)
 * [Chapter 5: Scope Closures](up%20%26%20going/ch5.md)
 	* Enlightenment -- Nitty Gritty -- Now I Can See -- Loops + Closure -- Modules -- [Review](up%20%26%20going/ch5.md#review-tldr)
-* [Appendix A: Dynamic Scope](up%20%26%20going/apA.md)
-* [Appendix B: Polyfilling Block Scope](up%20%26%20going/apB.md)
-* [Appendix C: Lexical-this](up%20%26%20going/apC.md)
-* [Appendix D: Acknowledgments](up%20%26%20going/apD.md)
+* [*Appendix A: Dynamic Scope*](up%20%26%20going/apA.md)
+* [*Appendix B: Polyfilling Block Scope*](up%20%26%20going/apB.md)
+* [*Appendix C: Lexical-this*](up%20%26%20going/apC.md)
+* [*Appendix D: Acknowledgments*](up%20%26%20going/apD.md)
 ## [*this* & Object Prototypes](#this--object-prototypes) *- detail*
 *[Foreword](this%20%26%20object%20prototypes/forword.md) - Jul 27,2014(174p)*
 * [Chapter 1: `this` Or That?](this%20%26%20object%20prototypes/ch1.md#you-dont-know-js-this--object-prototypes)
@@ -111,8 +111,8 @@
 	* Towards Delegation-Oriented Design
 		* Class Theory -- Delegation Theory -- Mental Models Compared
 	* Classes vs. Objects -- Simpler Design -- Nicer Syntax -- Introspection -- [Review](this%20%26%20object%20prototypes/ch6.md#review-tldr)
-* [Appendix A: ES6 `class`](this%20%26%20object%20prototypes/apA.md)
-* [Appendix B: Acknowledgments](this%20%26%20object%20prototypes/apB.md)
+* [*Appendix A: ES6 `class`*](this%20%26%20object%20prototypes/apA.md)
+* [*Appendix B: Acknowledgments*](this%20%26%20object%20prototypes/apB.md)
 ## [Types & Grammar](#types--grammar) *- detail*
 *[Foreword](types%20%26%20grammar/forword.md) - Feb 4,2015(198p)*
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md)
@@ -132,8 +132,8 @@
 	* [Automatic Semicolons(ASI)](types%20%26%20grammar/ch5.md#automatic-semicolons)
 	* Errors -- Function Arguments
 	* `try..finally` -- `switch` -- [Review](types%20%26%20grammar/ch5.md#review)
-* [Appendix A: Mixed Environment JavaScript](types%20%26%20grammar/apA.md)
-* [Appendix B: Acknowledgments](types%20%26%20grammar/apB.md)
+* [*Appendix A: Mixed Environment JavaScript*](types%20%26%20grammar/apA.md)
+* [*Appendix B: Acknowledgments*](types%20%26%20grammar/apB.md)
 ## [Async & Performance](#async--performance) *- detail*
 *[Foreword](async%20%26%20performance/forword.md) - Feb 27,2015(296p)*
 * [Chapter 1: Asynchrony: Now & Later](async%20%26%20performance/ch1.md)
@@ -169,9 +169,9 @@
 * [Chapter 6: Benchmarking & Tuning](async%20%26%20performance/ch6.md)
 	* Benchmarking -- Context Is King -- jsPerf.com
 	* Writing Good Tests -- Microperformance -- Tail Call Optimization (TCO)
-* [Appendix A: *asynquence* Library](async%20%26%20performance/apA.md)
-* [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
-* [Appendix C: Acknowledgments](async%20%26%20performance/apC.md)
+* [*Appendix A: asynquence Library*](async%20%26%20performance/apA.md)
+* [*Appendix B: Advanced Async Patterns*](async%20%26%20performance/apB.md)
+* [*Appendix C: Acknowledgments*](async%20%26%20performance/apC.md)
 ## [ES6 & Beyond](#es6--beyond) *- detail*
 *[Foreword](es6%20&%20beyond/forword.md) - Dec 27,2015(278p)*
 * [Chapter 1: ES? Now & Future](es6%20&%20beyond/ch1.md)   
@@ -203,7 +203,7 @@
 * [Chapter 8: Beyond ES6](es6%20&%20beyond/ch8.md)
 	* `async function`s -- `Object.observe(..)` -- Exponentiation Operator -- Object Properties and `...`
 	* `Array#includes(..)` -- SIMD -- WebAssembly (WASM)
-* [Appendix A: Acknowledgments](es6%20&%20beyond/apA.md)
+* [*Appendix A: Acknowledgments*](es6%20&%20beyond/apA.md)
 
 
 [You Dont Konw JS]: https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/toc.md#top
