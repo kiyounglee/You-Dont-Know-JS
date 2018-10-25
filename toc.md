@@ -13,9 +13,9 @@
 * [Chapter 3: Function vs. Block Scope](scope%20%26%20closures/ch3.md)
 * [Chapter 4: Hoisting](scope%20%26%20closures/ch4.md)
 * [Chapter 5: Scope Closures](scope%20%26%20closures/ch5.md)
-* [Appendix A: Dynamic Scope](scope%20%26%20closures/apA.md)
-* [Appendix B: Polyfilling Block Scope](scope%20%26%20closures/apB.md)
-* [Appendix C: Lexical-this](scope%20%26%20closures/apC.md)
+* [*Appendix A: Dynamic Scope*](scope%20%26%20closures/apA.md)
+* [*Appendix B: Polyfilling Block Scope*](scope%20%26%20closures/apB.md)
+* [*Appendix C: Lexical-this*](scope%20%26%20closures/apC.md)
 ### [*this* & Object Prototypes](#this--object-prototypes---detail)
 * [Chapter 1: *this* Or That?](this%20%26%20object%20prototypes/ch1.md)
 * [Chapter 2: *this* All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md)
@@ -23,7 +23,7 @@
 * [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md)
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md)
-* [Appendix A: ES6 *class*](this%20%26%20object%20prototypes/apA.md)
+* [*Appendix A: ES6 `class`*](this%20%26%20object%20prototypes/apA.md)
 ### [Types & Grammar](#types--grammar---detail)
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md)
 * [Chapter 2: Values](types%20%26%20grammar/ch2.md) : Arrays -- Strings -- Numbers -- Special Values -- Value vs Reference
@@ -32,7 +32,7 @@
 * [Chapter 5: Grammar](types%20%26%20grammar/ch5.md)
 	* Statements & Expressions -- Operator Precedence -- Automatic Semicolons
 	* Errors -- Function Arguments -- `try..finally` -- `switch`
-* [Appendix A: Mixed Environment JavaScript](types%20%26%20grammar/apA.md)
+* [*Appendix A: Mixed Environment JavaScript*](types%20%26%20grammar/apA.md)
 ### [Async & Performance](#async--performance---detail)
 * [Chapter 1: Asynchrony: Now & Later](async%20%26%20performance/ch1.md)
 * [Chapter 2: Callbacks](async%20%26%20performance/ch2.md)
@@ -40,8 +40,8 @@
 * [Chapter 4: Generators](async%20%26%20performance/ch4.md)
 * [Chapter 5: Program Performance](async%20%26%20performance/ch5.md)
 * [Chapter 6: Benchmarking & Tuning](async%20%26%20performance/ch6.md)
-* [Appendix A: Library: asynquence](async%20%26%20performance/apA.md)
-* [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
+* [*Appendix A: Library: asynquence*](async%20%26%20performance/apA.md)
+* [*Appendix B: Advanced Async Patterns*](async%20%26%20performance/apB.md)
 ### [ES6 & Beyond](#es6--beyond---detail)
 * [Chapter 1: ES? Now & Future](es6%20%26%20beyond/ch1.md) : Versioning -- Transpiling   
 * [Chapter 2: Syntax](es6%20%26%20beyond/ch2.md)
