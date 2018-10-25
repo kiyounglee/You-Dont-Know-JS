@@ -49,9 +49,7 @@
 	* Object Literal Extensions -- Template Literals -- Arrow Functions -- `for..of` Loops
 	* Regular Expression Extensions -- Number Literal Extensions -- Unicode -- Symbols
 * [Chapter 3: Organization](es6%20%26%20beyond/ch3.md) : [Iterators](es6%20%26%20beyond/ch3.md#iterators) -- [Generators](es6%20%26%20beyond/ch3.md#generators) -- [Modules](es6%20%26%20beyond/ch3.md#modules) -- [Classes](es6%20%26%20beyond/ch3.md#classes)
-* [Chapter 4: Async Flow Control](es6%20%26%20beyond/ch4.md)
-	* [Promises](es6%20%26%20beyond/ch4.md#promises)
-	* [Generators + Promises](es6%20%26%20beyond/ch4.md#generators--promises)
+* [Chapter 4: Async Flow Control](es6%20%26%20beyond/ch4.md) : [Promises](es6%20%26%20beyond/ch4.md#promises) -- [Generators + Promises](es6%20%26%20beyond/ch4.md#generators--promises)
 * [Chapter 5: Collections](es6%20%26%20beyond/ch5.md) : TypedArrays -- Maps -- WeakMaps -- Sets -- WeakSets
 * [Chapter 6: API Additions](es6%20%26%20beyond/ch6.md) : `Array` -- `Object` -- `Math` -- `Number` -- `String`
 * [Chapter 7: Meta Programming](es6%20%26%20beyond/ch7.md)
