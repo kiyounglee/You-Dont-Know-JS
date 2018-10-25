@@ -86,10 +86,10 @@
 	* Chicken Or The Egg? -- The Compiler Strikes Again -- Functions First -- [Review](scope%20%26%20closures/ch4.md#review-tldr)
 * [Chapter 5: Scope Closures](scope%20%26%20closures/ch5.md#you-dont-know-js-scope--closures)
 	* Enlightenment -- Nitty Gritty -- Now I Can See -- Loops + Closure -- Modules -- [Review](scope%20%26%20closures/ch5.md#review-tldr)
-* [*Appendix A: Dynamic Scope*](scope%20%26%20closures/apA.md)
-* [*Appendix B: Polyfilling Block Scope*](scope%20%26%20closures/apB.md)
-* [*Appendix C: Lexical-this*](scope%20%26%20closures/apC.md)
-* [*Appendix D: Acknowledgments*](scope%20%26%20closures/apD.md)
+* [*Appendix A: Dynamic Scope*](scope%20%26%20closures/apA.md#you-dont-know-js-scope--closures)
+* [*Appendix B: Polyfilling Block Scope*](scope%20%26%20closures/apB.md#you-dont-know-js-scope--closures)
+* [*Appendix C: Lexical-this*](scope%20%26%20closures/apC.md#you-dont-know-js-scope--closures)
+* [*Appendix D: Acknowledgments*](scope%20%26%20closures/apD.md#you-dont-know-js-scope--closures)
 ## [*this* & Object Prototypes](#this--object-prototypes) *- detail*
 *[Foreword](this%20%26%20object%20prototypes/forword.md) - Jul 27,2014(174p)*
 * [Chapter 1: What's `this`?](this%20%26%20object%20prototypes/ch1.md#you-dont-know-js-this--object-prototypes)
@@ -107,8 +107,8 @@
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md#you-dont-know-js-this--object-prototypes)
 	* Towards Delegation-Oriented Design( Class Theory / Delegation Theory )
 	* Classes vs. Objects -- Simpler Design -- Nicer Syntax -- Introspection -- [Review](this%20%26%20object%20prototypes/ch6.md#review-tldr)
-* [*Appendix A: ES6 `class`*](this%20%26%20object%20prototypes/apA.md)
-* [*Appendix B: Acknowledgments*](this%20%26%20object%20prototypes/apB.md)
+* [*Appendix A: ES6 `class`*](this%20%26%20object%20prototypes/apA.md#you-dont-know-js-this--object-prototypes)
+* [*Appendix B: Acknowledgments*](this%20%26%20object%20prototypes/apB.md#you-dont-know-js-this--object-prototypes)
 ## [Types & Grammar](#types--grammar) *- detail*
 *[Foreword](types%20%26%20grammar/forword.md) - Feb 4,2015(198p)*
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md)
