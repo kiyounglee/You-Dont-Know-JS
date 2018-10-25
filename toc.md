@@ -19,16 +19,14 @@
 ### [*this* & Object Prototypes](#this--object-prototypes---detail)
 * [Chapter 1: *this* Or That?](this%20%26%20object%20prototypes/ch1.md)
 * [Chapter 2: *this* All Makes Sense Now!](this%20%26%20object%20prototypes/ch2.md)
-* [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md)
-	* Syntax -- Type -- Contents -- Iteration
+* [Chapter 3: Objects](this%20%26%20object%20prototypes/ch3.md) : Syntax -- Type -- Contents -- Iteration
 * [Chapter 4: Mixing (Up) "Class" Objects](this%20%26%20object%20prototypes/ch4.md)
 * [Chapter 5: Prototypes](this%20%26%20object%20prototypes/ch5.md)
 * [Chapter 6: Behavior Delegation](this%20%26%20object%20prototypes/ch6.md)
 * [Appendix A: ES6 *class*](this%20%26%20object%20prototypes/apA.md)
 ### [Types & Grammar](#types--grammar---detail)
 * [Chapter 1: Types](types%20%26%20grammar/ch1.md)
-* [Chapter 2: Values](types%20%26%20grammar/ch2.md)
-	* Arrays -- Strings -- Numbers -- Special Values -- Value vs Reference
+* [Chapter 2: Values](types%20%26%20grammar/ch2.md) : Arrays -- Strings -- Numbers -- Special Values -- Value vs Reference
 * [Chapter 3: Natives](types%20%26%20grammar/ch3.md)
 * [Chapter 4: Coercion](types%20%26%20grammar/ch4.md)
 * [Chapter 5: Grammar](types%20%26%20grammar/ch5.md)
@@ -45,21 +43,17 @@
 * [Appendix A: Library: asynquence](async%20%26%20performance/apA.md)
 * [Appendix B: Advanced Async Patterns](async%20%26%20performance/apB.md)
 ### [ES6 & Beyond](#es6--beyond---detail)
-* [Chapter 1: ES? Now & Future](es6%20%26%20beyond/ch1.md)   
-	* Versioning -- Transpiling   
+* [Chapter 1: ES? Now & Future](es6%20%26%20beyond/ch1.md) : Versioning -- Transpiling   
 * [Chapter 2: Syntax](es6%20%26%20beyond/ch2.md)
 	* Block-Scoped Declarations -- Spread / Rest -- Default Parameter Values -- Destructuring
 	* Object Literal Extensions -- Template Literals -- Arrow Functions -- `for..of` Loops
 	* Regular Expression Extensions -- Number Literal Extensions -- Unicode -- Symbols
-* [Chapter 3: Organization](es6%20%26%20beyond/ch3.md)
-	* [Iterators](es6%20%26%20beyond/ch3.md#iterators) -- [Generators](es6%20%26%20beyond/ch3.md#generators) -- [Modules](es6%20%26%20beyond/ch3.md#modules) -- [Classes](es6%20%26%20beyond/ch3.md#classes)
+* [Chapter 3: Organization](es6%20%26%20beyond/ch3.md) : [Iterators](es6%20%26%20beyond/ch3.md#iterators) -- [Generators](es6%20%26%20beyond/ch3.md#generators) -- [Modules](es6%20%26%20beyond/ch3.md#modules) -- [Classes](es6%20%26%20beyond/ch3.md#classes)
 * [Chapter 4: Async Flow Control](es6%20%26%20beyond/ch4.md)
 	* [Promises](es6%20%26%20beyond/ch4.md#promises)
 	* [Generators + Promises](es6%20%26%20beyond/ch4.md#generators--promises)
-* [Chapter 5: Collections](es6%20%26%20beyond/ch5.md)
-	* TypedArrays -- Maps -- WeakMaps -- Sets -- WeakSets
-* [Chapter 6: API Additions](es6%20%26%20beyond/ch6.md)
-	* `Array` -- `Object` -- `Math` -- `Number` -- `String`
+* [Chapter 5: Collections](es6%20%26%20beyond/ch5.md) : TypedArrays -- Maps -- WeakMaps -- Sets -- WeakSets
+* [Chapter 6: API Additions](es6%20%26%20beyond/ch6.md) : `Array` -- `Object` -- `Math` -- `Number` -- `String`
 * [Chapter 7: Meta Programming](es6%20%26%20beyond/ch7.md)
 	* [Function Names](es6%20%26%20beyond/ch7.md#function-names) -- [Meta Properties](es6%20%26%20beyond/ch7.md#meta-properties) -- [Well Known Symbols](es6%20%26%20beyond/ch7.md#well-known-symbols)
 	* [Proxies](es6%20%26%20beyond/ch7.md#proxies) -- [`Reflect` API](es6%20%26%20beyond/ch7.md#reflect-api) -- [Feature Testing](es6%20%26%20beyond/ch7.md#feature-testing) -- [Tail Call Optimization (TCO)](es6%20%26%20beyond/ch7.md#tail-call-optimization-tco)
