@@ -124,8 +124,7 @@
 	* Converting Values -- Abstract Value Operations -- Explicit Coercion -- Implicit Coercion
 	* Loose Equals vs Strict Equals -- Abstract Relational Comparison -- [Review](types%20%26%20grammar/ch4.md#review) 
 * [Chapter 5: Grammar](types%20%26%20grammar/ch5.md)
-	* [Statements & Expressions](types%20%26%20grammar/ch5.md#statements--expressions)
-		* Statement Completion Values -- Expression Side Effects -- Contextual Rules
+	* [Statements & Expressions](types%20%26%20grammar/ch5.md#statements--expressions) : Statement Completion Values -- Expression Side Effects -- Contextual Rules
 	* Operator Precedence
 	* [Automatic Semicolons(ASI)](types%20%26%20grammar/ch5.md#automatic-semicolons)
 	* Errors -- Function Arguments
