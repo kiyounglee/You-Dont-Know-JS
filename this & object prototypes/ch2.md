@@ -748,7 +748,7 @@ The soft-bound version of the `foo()` function can be manually `this`-bound to `
 
 ## Lexical `this`
 
-> YDK-JS: [Scope & Closures - Appendix C: Lexical-this](scope%20%26%20closures/apC.md#you-dont-know-js-scope--closures)
+> YDK-JS: [Scope & Closures - Appendix C: Lexical-this](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/scope%20%26%20closures/apC.md#you-dont-know-js-scope--closures)
 
 Normal functions abide by the 4 rules we just covered. But ES6 introduces a special kind of function that does not use these rules: arrow-function.
 
